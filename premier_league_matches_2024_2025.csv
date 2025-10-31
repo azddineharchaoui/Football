@@ -1,0 +1,875 @@
+Date,Time,Comp,Round,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Team
+2024-08-17,12:30,Premier League,Matchweek 1,Away,W,2,0,Ipswich Town,2.6,0.5,62,Liverpool
+2024-08-25,16:30,Premier League,Matchweek 2,Home,W,2,0,Brentford,2.5,0.5,62,Liverpool
+2024-09-01,16:00,Premier League,Matchweek 3,Away,W,3,0,Manchester Utd,1.8,1.4,47,Liverpool
+2024-09-14,15:00,Premier League,Matchweek 4,Home,L,0,1,Nott'ham Forest,0.9,0.4,68,Liverpool
+2024-09-21,15:00,Premier League,Matchweek 5,Home,W,3,0,Bournemouth,2.0,1.1,58,Liverpool
+2024-09-28,17:30,Premier League,Matchweek 6,Away,W,2,1,Wolves,2.5,0.6,55,Liverpool
+2024-10-05,12:30,Premier League,Matchweek 7,Away,W,1,0,Crystal Palace,1.4,0.6,68,Liverpool
+2024-10-20,16:30,Premier League,Matchweek 8,Home,W,2,1,Chelsea,1.9,1.0,43,Liverpool
+2024-10-27,16:30 (17:30),Premier League,Matchweek 9,Away,D,2,2,Arsenal,0.8,0.9,55,Liverpool
+2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Home,W,2,1,Brighton,1.6,1.0,49,Liverpool
+2024-11-09,20:00 (21:00),Premier League,Matchweek 11,Home,W,2,0,Aston Villa,2.0,1.2,62,Liverpool
+2024-11-24,14:00 (15:00),Premier League,Matchweek 12,Away,W,3,2,Southampton,3.1,1.3,62,Liverpool
+2024-12-01,16:00 (17:00),Premier League,Matchweek 13,Home,W,2,0,Manchester City,3.4,0.8,44,Liverpool
+2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Away,D,3,3,Newcastle Utd,1.9,2.1,58,Liverpool
+2024-12-14,15:00 (16:00),Premier League,Matchweek 16,Home,D,2,2,Fulham,2.1,1.2,61,Liverpool
+2024-12-22,16:30 (17:30),Premier League,Matchweek 17,Away,W,6,3,Tottenham,5.6,1.3,48,Liverpool
+2024-12-26,20:00 (21:00),Premier League,Matchweek 18,Home,W,3,1,Leicester City,2.0,0.3,68,Liverpool
+2024-12-29,17:15 (18:15),Premier League,Matchweek 19,Away,W,5,0,West Ham,3.1,0.4,54,Liverpool
+2025-01-05,16:30 (17:30),Premier League,Matchweek 20,Home,D,2,2,Manchester Utd,2.7,1.0,53,Liverpool
+2025-01-14,20:00 (21:00),Premier League,Matchweek 21,Away,D,1,1,Nott'ham Forest,2.0,0.3,70,Liverpool
+2025-01-18,15:00 (16:00),Premier League,Matchweek 22,Away,W,2,0,Brentford,3.4,0.7,60,Liverpool
+2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Home,W,4,1,Ipswich Town,2.0,0.5,70,Liverpool
+2025-02-01,15:00 (16:00),Premier League,Matchweek 24,Away,W,2,0,Bournemouth,2.5,1.6,51,Liverpool
+2025-02-12,19:30 (20:30),Premier League,Matchweek 15,Away,D,2,2,Everton,0.6,1.0,63,Liverpool
+2025-02-16,14:00 (15:00),Premier League,Matchweek 25,Home,W,2,1,Wolves,1.7,1.5,50,Liverpool
+2025-02-19,19:30 (20:30),Premier League,Matchweek 29,Away,D,2,2,Aston Villa,2.5,0.6,48,Liverpool
+2025-02-23,16:30,Premier League,Matchweek 26,Away,W,2,0,Manchester City,0.7,0.6,34,Liverpool
+2025-02-26,20:15,Premier League,Matchweek 27,Home,W,2,0,Newcastle Utd,1.7,0.2,61,Liverpool
+2025-03-08,15:00,Premier League,Matchweek 28,Home,W,3,1,Southampton,3.9,0.4,71,Liverpool
+2025-04-02,20:00 (19:00),Premier League,Matchweek 30,Home,W,1,0,Everton,1.5,0.9,73,Liverpool
+2025-04-06,14:00,Premier League,Matchweek 31,Away,L,2,3,Fulham,1.5,0.7,63,Liverpool
+2025-04-13,14:00,Premier League,Matchweek 32,Home,W,2,1,West Ham,1.8,1.4,55,Liverpool
+2025-04-20,16:30,Premier League,Matchweek 33,Away,W,1,0,Leicester City,2.5,0.3,58,Liverpool
+2025-04-27,16:30,Premier League,Matchweek 34,Home,W,5,1,Tottenham,2.2,0.5,61,Liverpool
+2025-05-04,16:30,Premier League,Matchweek 35,Away,L,1,3,Chelsea,1.0,3.1,64,Liverpool
+2025-05-11,16:30,Premier League,Matchweek 36,Home,D,2,2,Arsenal,2.4,2.6,45,Liverpool
+2025-05-19,20:00,Premier League,Matchweek 37,Away,L,2,3,Brighton,2.2,2.2,51,Liverpool
+2025-05-25,16:00,Premier League,Matchweek 38,Home,D,1,1,Crystal Palace,2.1,1.8,69,Liverpool
+2024-08-19,20:00,Premier League,Matchweek 1,Away,D,1,1,Leicester City,1.2,1.0,70,Tottenham Hotspur
+2024-08-24,15:00,Premier League,Matchweek 2,Home,W,4,0,Everton,2.4,1.0,70,Tottenham Hotspur
+2024-09-01,13:30,Premier League,Matchweek 3,Away,L,1,2,Newcastle Utd,1.2,1.8,65,Tottenham Hotspur
+2024-09-15,14:00,Premier League,Matchweek 4,Home,L,0,1,Arsenal,0.7,0.7,63,Tottenham Hotspur
+2024-09-21,15:00,Premier League,Matchweek 5,Home,W,3,1,Brentford,3.5,0.8,48,Tottenham Hotspur
+2024-09-29,16:30,Premier League,Matchweek 6,Away,W,3,0,Manchester Utd,4.4,1.0,61,Tottenham Hotspur
+2024-10-06,16:30,Premier League,Matchweek 7,Away,L,2,3,Brighton,1.3,1.8,59,Tottenham Hotspur
+2024-10-19,12:30,Premier League,Matchweek 8,Home,W,4,1,West Ham,1.9,0.8,57,Tottenham Hotspur
+2024-10-27,14:00 (15:00),Premier League,Matchweek 9,Away,L,0,1,Crystal Palace,0.7,0.8,66,Tottenham Hotspur
+2024-11-03,14:00 (15:00),Premier League,Matchweek 10,Home,W,4,1,Aston Villa,2.4,1.8,51,Tottenham Hotspur
+2024-11-10,14:00 (15:00),Premier League,Matchweek 11,Home,L,1,2,Ipswich Town,1.5,1.6,66,Tottenham Hotspur
+2024-11-23,17:30 (18:30),Premier League,Matchweek 12,Away,W,4,0,Manchester City,2.5,2.1,42,Tottenham Hotspur
+2024-12-01,13:30 (14:30),Premier League,Matchweek 13,Home,D,1,1,Fulham,0.8,1.5,51,Tottenham Hotspur
+2024-12-05,20:15 (21:15),Premier League,Matchweek 14,Away,L,0,1,Bournemouth,0.9,3.5,65,Tottenham Hotspur
+2024-12-08,16:30 (17:30),Premier League,Matchweek 15,Home,L,3,4,Chelsea,2.8,2.8,39,Tottenham Hotspur
+2024-12-15,19:00 (20:00),Premier League,Matchweek 16,Away,W,5,0,Southampton,2.3,0.8,58,Tottenham Hotspur
+2024-12-22,16:30 (17:30),Premier League,Matchweek 17,Home,L,3,6,Liverpool,1.3,5.6,52,Tottenham Hotspur
+2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Away,L,0,1,Nott'ham Forest,0.9,1.1,70,Tottenham Hotspur
+2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Home,D,2,2,Wolves,2.2,0.7,48,Tottenham Hotspur
+2025-01-04,12:30 (13:30),Premier League,Matchweek 20,Home,L,1,2,Newcastle Utd,0.9,2.5,56,Tottenham Hotspur
+2025-01-15,20:00 (21:00),Premier League,Matchweek 21,Away,L,1,2,Arsenal,0.8,1.4,47,Tottenham Hotspur
+2025-01-19,14:00 (15:00),Premier League,Matchweek 22,Away,L,2,3,Everton,1.1,1.8,64,Tottenham Hotspur
+2025-01-26,14:00 (15:00),Premier League,Matchweek 23,Home,L,1,2,Leicester City,1.0,1.6,61,Tottenham Hotspur
+2025-02-02,14:00 (15:00),Premier League,Matchweek 24,Away,W,2,0,Brentford,0.8,2.1,46,Tottenham Hotspur
+2025-02-16,16:30 (17:30),Premier League,Matchweek 25,Home,W,1,0,Manchester Utd,2.2,1.5,55,Tottenham Hotspur
+2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Away,W,4,1,Ipswich Town,1.7,1.1,58,Tottenham Hotspur
+2025-02-26,19:30,Premier League,Matchweek 27,Home,L,0,1,Manchester City,1.3,2.1,55,Tottenham Hotspur
+2025-03-09,14:00,Premier League,Matchweek 28,Home,D,2,2,Bournemouth,1.5,2.2,61,Tottenham Hotspur
+2025-03-16,13:30,Premier League,Matchweek 29,Away,L,0,2,Fulham,0.9,1.0,43,Tottenham Hotspur
+2025-04-03,20:00 (19:00),Premier League,Matchweek 30,Away,L,0,1,Chelsea,0.9,1.0,49,Tottenham Hotspur
+2025-04-06,14:00,Premier League,Matchweek 31,Home,W,3,1,Southampton,2.1,1.0,51,Tottenham Hotspur
+2025-04-13,14:00,Premier League,Matchweek 32,Away,L,2,4,Wolves,2.0,2.4,63,Tottenham Hotspur
+2025-04-21,20:00,Premier League,Matchweek 33,Home,L,1,2,Nott'ham Forest,2.1,0.5,69,Tottenham Hotspur
+2025-04-27,16:30,Premier League,Matchweek 34,Away,L,1,5,Liverpool,0.5,2.2,39,Tottenham Hotspur
+2025-05-04,14:00,Premier League,Matchweek 35,Away,D,1,1,West Ham,0.8,0.8,45,Tottenham Hotspur
+2025-05-11,14:15,Premier League,Matchweek 36,Home,L,0,2,Crystal Palace,0.7,3.3,48,Tottenham Hotspur
+2025-05-16,19:30,Premier League,Matchweek 37,Away,L,0,2,Aston Villa,0.5,1.4,33,Tottenham Hotspur
+2025-05-25,16:00,Premier League,Matchweek 38,Home,L,1,4,Brighton,2.0,2.2,34,Tottenham Hotspur
+2024-08-17,15:00,Premier League,Matchweek 1,Home,W,2,0,Wolves,1.2,0.5,53,Arsenal
+2024-08-24,17:30,Premier League,Matchweek 2,Away,W,2,0,Aston Villa,0.9,1.2,60,Arsenal
+2024-08-31,12:30,Premier League,Matchweek 3,Home,D,1,1,Brighton,2.1,1.7,36,Arsenal
+2024-09-15,14:00,Premier League,Matchweek 4,Away,W,1,0,Tottenham,0.7,0.7,37,Arsenal
+2024-09-22,16:30,Premier League,Matchweek 5,Away,D,2,2,Manchester City,0.7,2.1,23,Arsenal
+2024-09-28,15:00,Premier League,Matchweek 6,Home,W,4,2,Leicester City,4.4,0.3,74,Arsenal
+2024-10-05,15:00,Premier League,Matchweek 7,Home,W,3,1,Southampton,2.8,0.6,59,Arsenal
+2024-10-19,17:30,Premier League,Matchweek 8,Away,L,0,2,Bournemouth,0.7,1.8,51,Arsenal
+2024-10-27,16:30 (17:30),Premier League,Matchweek 9,Home,D,2,2,Liverpool,0.9,0.8,45,Arsenal
+2024-11-02,12:30 (13:30),Premier League,Matchweek 10,Away,L,0,1,Newcastle Utd,1.1,0.5,63,Arsenal
+2024-11-10,16:30 (17:30),Premier League,Matchweek 11,Away,D,1,1,Chelsea,1.5,1.5,51,Arsenal
+2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Home,W,3,0,Nott'ham Forest,1.2,0.3,66,Arsenal
+2024-11-30,17:30 (18:30),Premier League,Matchweek 13,Away,W,5,2,West Ham,3.5,1.5,60,Arsenal
+2024-12-04,20:15 (21:15),Premier League,Matchweek 14,Home,W,2,0,Manchester Utd,2.1,0.2,51,Arsenal
+2024-12-08,14:00 (15:00),Premier League,Matchweek 15,Away,D,1,1,Fulham,1.8,0.2,66,Arsenal
+2024-12-14,15:00 (16:00),Premier League,Matchweek 16,Home,D,0,0,Everton,1.2,0.1,76,Arsenal
+2024-12-21,17:30 (18:30),Premier League,Matchweek 17,Away,W,5,1,Crystal Palace,2.5,1.6,58,Arsenal
+2024-12-27,20:15 (21:15),Premier League,Matchweek 18,Home,W,1,0,Ipswich Town,1.8,0.2,68,Arsenal
+2025-01-01,17:30 (18:30),Premier League,Matchweek 19,Away,W,3,1,Brentford,1.9,0.3,50,Arsenal
+2025-01-04,17:30 (18:30),Premier League,Matchweek 20,Away,D,1,1,Brighton,0.9,1.5,55,Arsenal
+2025-01-15,20:00 (21:00),Premier League,Matchweek 21,Home,W,2,1,Tottenham,1.4,0.8,53,Arsenal
+2025-01-18,17:30 (18:30),Premier League,Matchweek 22,Home,D,2,2,Aston Villa,1.3,1.0,66,Arsenal
+2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Away,W,1,0,Wolves,1.0,0.7,49,Arsenal
+2025-02-02,16:30 (17:30),Premier League,Matchweek 24,Home,W,5,1,Manchester City,1.0,0.8,46,Arsenal
+2025-02-15,12:30 (13:30),Premier League,Matchweek 25,Away,W,2,0,Leicester City,1.4,0.2,60,Arsenal
+2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Home,L,0,1,West Ham,1.2,1.1,68,Arsenal
+2025-02-26,19:30,Premier League,Matchweek 27,Away,D,0,0,Nott'ham Forest,1.0,0.4,64,Arsenal
+2025-03-09,16:30,Premier League,Matchweek 28,Away,D,1,1,Manchester Utd,1.6,1.5,68,Arsenal
+2025-03-16,13:30,Premier League,Matchweek 29,Home,W,1,0,Chelsea,0.7,0.4,42,Arsenal
+2025-04-01,19:45 (18:45),Premier League,Matchweek 30,Home,W,2,1,Fulham,2.2,1.0,51,Arsenal
+2025-04-05,12:30 (11:30),Premier League,Matchweek 31,Away,D,1,1,Everton,1.8,1.1,69,Arsenal
+2025-04-12,17:30,Premier League,Matchweek 32,Home,D,1,1,Brentford,1.0,0.2,63,Arsenal
+2025-04-20,14:00,Premier League,Matchweek 33,Away,W,4,0,Ipswich Town,2.4,0.2,75,Arsenal
+2025-04-23,20:00,Premier League,Matchweek 34,Home,D,2,2,Crystal Palace,1.2,1.7,67,Arsenal
+2025-05-03,17:30,Premier League,Matchweek 35,Home,L,1,2,Bournemouth,1.4,0.9,51,Arsenal
+2025-05-11,16:30,Premier League,Matchweek 36,Away,D,2,2,Liverpool,2.6,2.4,55,Arsenal
+2025-05-18,16:30,Premier League,Matchweek 37,Home,W,1,0,Newcastle Utd,0.6,1.5,51,Arsenal
+2025-05-25,16:00,Premier League,Matchweek 38,Away,W,2,1,Southampton,2.3,0.6,62,Arsenal
+2024-08-18,16:30,Premier League,Matchweek 1,Away,W,2,0,Chelsea,0.8,1.0,52,Manchester City
+2024-08-24,15:00,Premier League,Matchweek 2,Home,W,4,1,Ipswich Town,3.3,0.3,75,Manchester City
+2024-08-31,17:30,Premier League,Matchweek 3,Away,W,3,1,West Ham,3.0,0.7,67,Manchester City
+2024-09-14,15:00,Premier League,Matchweek 4,Home,W,2,1,Brentford,2.1,1.0,54,Manchester City
+2024-09-22,16:30,Premier League,Matchweek 5,Home,D,2,2,Arsenal,2.1,0.7,77,Manchester City
+2024-09-28,12:30,Premier League,Matchweek 6,Away,D,1,1,Newcastle Utd,0.9,1.6,62,Manchester City
+2024-10-05,15:00,Premier League,Matchweek 7,Home,W,3,2,Fulham,1.6,2.6,58,Manchester City
+2024-10-20,14:00,Premier League,Matchweek 8,Away,W,2,1,Wolves,1.6,0.8,77,Manchester City
+2024-10-26,15:00,Premier League,Matchweek 9,Home,W,1,0,Southampton,2.9,0.2,57,Manchester City
+2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Away,L,1,2,Bournemouth,1.6,2.0,64,Manchester City
+2024-11-09,17:30 (18:30),Premier League,Matchweek 11,Away,L,1,2,Brighton,2.1,2.3,60,Manchester City
+2024-11-23,17:30 (18:30),Premier League,Matchweek 12,Home,L,0,4,Tottenham,2.1,2.5,58,Manchester City
+2024-12-01,16:00 (17:00),Premier League,Matchweek 13,Away,L,0,2,Liverpool,0.8,3.4,56,Manchester City
+2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Home,W,3,0,Nott'ham Forest,2.4,1.0,66,Manchester City
+2024-12-07,15:00 (16:00),Premier League,Matchweek 15,Away,D,2,2,Crystal Palace,1.4,1.3,68,Manchester City
+2024-12-15,16:30 (17:30),Premier League,Matchweek 16,Home,L,1,2,Manchester Utd,0.9,2.1,52,Manchester City
+2024-12-21,12:30 (13:30),Premier League,Matchweek 17,Away,L,1,2,Aston Villa,1.0,1.6,56,Manchester City
+2024-12-26,12:30 (13:30),Premier League,Matchweek 18,Home,D,1,1,Everton,2.1,0.7,66,Manchester City
+2024-12-29,14:30 (15:30),Premier League,Matchweek 19,Away,W,2,0,Leicester City,1.3,1.3,47,Manchester City
+2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Home,W,4,1,West Ham,1.9,1.4,56,Manchester City
+2025-01-14,19:30 (20:30),Premier League,Matchweek 21,Away,D,2,2,Brentford,2.2,2.5,55,Manchester City
+2025-01-19,16:30 (17:30),Premier League,Matchweek 22,Away,W,6,0,Ipswich Town,3.0,0.5,67,Manchester City
+2025-01-25,17:30 (18:30),Premier League,Matchweek 23,Home,W,3,1,Chelsea,2.2,1.8,56,Manchester City
+2025-02-02,16:30 (17:30),Premier League,Matchweek 24,Away,L,1,5,Arsenal,0.8,1.0,54,Manchester City
+2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Home,W,4,0,Newcastle Utd,1.9,0.5,61,Manchester City
+2025-02-23,16:30,Premier League,Matchweek 26,Home,L,0,2,Liverpool,0.6,0.7,66,Manchester City
+2025-02-26,19:30,Premier League,Matchweek 27,Away,W,1,0,Tottenham,2.1,1.3,45,Manchester City
+2025-03-08,12:30,Premier League,Matchweek 28,Away,L,0,1,Nott'ham Forest,0.9,0.7,69,Manchester City
+2025-03-15,15:00,Premier League,Matchweek 29,Home,D,2,2,Brighton,1.7,2.0,60,Manchester City
+2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Home,W,2,0,Leicester City,2.2,0.1,72,Manchester City
+2025-04-06,16:30,Premier League,Matchweek 31,Away,D,0,0,Manchester Utd,0.5,0.9,58,Manchester City
+2025-04-12,12:30,Premier League,Matchweek 32,Home,W,5,2,Crystal Palace,3.7,1.8,67,Manchester City
+2025-04-19,15:00,Premier League,Matchweek 33,Away,W,2,0,Everton,2.0,0.9,67,Manchester City
+2025-04-22,20:00,Premier League,Matchweek 34,Home,W,2,1,Aston Villa,1.3,1.8,61,Manchester City
+2025-05-02,20:00,Premier League,Matchweek 35,Home,W,1,0,Wolves,0.7,0.4,63,Manchester City
+2025-05-10,15:00,Premier League,Matchweek 36,Away,D,0,0,Southampton,1.7,0.1,72,Manchester City
+2025-05-20,20:00,Premier League,Matchweek 37,Home,W,3,1,Bournemouth,1.5,1.1,57,Manchester City
+2025-05-25,16:00,Premier League,Matchweek 38,Away,W,2,0,Fulham,3.0,1.3,53,Manchester City
+2024-08-18,16:30,Premier League,Matchweek 1,Home,L,0,2,Manchester City,1.0,0.8,48,Chelsea
+2024-08-25,14:00,Premier League,Matchweek 2,Away,W,6,2,Wolves,1.6,1.9,60,Chelsea
+2024-09-01,13:30,Premier League,Matchweek 3,Home,D,1,1,Crystal Palace,2.4,0.5,62,Chelsea
+2024-09-14,20:00,Premier League,Matchweek 4,Away,W,1,0,Bournemouth,0.8,1.7,66,Chelsea
+2024-09-21,12:30,Premier League,Matchweek 5,Away,W,3,0,West Ham,2.2,0.9,47,Chelsea
+2024-09-28,15:00,Premier League,Matchweek 6,Home,W,4,2,Brighton,4.2,1.1,41,Chelsea
+2024-10-06,14:00,Premier League,Matchweek 7,Home,D,1,1,Nott'ham Forest,2.3,0.9,65,Chelsea
+2024-10-20,16:30,Premier League,Matchweek 8,Away,L,1,2,Liverpool,1.0,1.9,57,Chelsea
+2024-10-27,14:00 (15:00),Premier League,Matchweek 9,Home,W,2,1,Newcastle Utd,1.6,1.8,50,Chelsea
+2024-11-03,16:30 (17:30),Premier League,Matchweek 10,Away,D,1,1,Manchester Utd,1.1,2.0,54,Chelsea
+2024-11-10,16:30 (17:30),Premier League,Matchweek 11,Home,D,1,1,Arsenal,1.5,1.5,49,Chelsea
+2024-11-23,12:30 (13:30),Premier League,Matchweek 12,Away,W,2,1,Leicester City,2.7,1.1,63,Chelsea
+2024-12-01,13:30 (14:30),Premier League,Matchweek 13,Home,W,3,0,Aston Villa,1.6,1.2,64,Chelsea
+2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Away,W,5,1,Southampton,5.2,1.6,55,Chelsea
+2024-12-08,16:30 (17:30),Premier League,Matchweek 15,Away,W,4,3,Tottenham,2.8,2.8,61,Chelsea
+2024-12-15,19:00 (20:00),Premier League,Matchweek 16,Home,W,2,1,Brentford,2.2,1.6,62,Chelsea
+2024-12-22,14:00 (15:00),Premier League,Matchweek 17,Away,D,0,0,Everton,1.2,1.0,75,Chelsea
+2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Home,L,1,2,Fulham,1.1,1.8,47,Chelsea
+2024-12-30,19:45 (20:45),Premier League,Matchweek 19,Away,L,0,2,Ipswich Town,2.0,1.6,76,Chelsea
+2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Away,D,1,1,Crystal Palace,1.2,1.1,61,Chelsea
+2025-01-14,19:30 (20:30),Premier League,Matchweek 21,Home,D,2,2,Bournemouth,2.5,1.2,57,Chelsea
+2025-01-20,20:00 (21:00),Premier League,Matchweek 22,Home,W,3,1,Wolves,3.1,0.8,63,Chelsea
+2025-01-25,17:30 (18:30),Premier League,Matchweek 23,Away,L,1,3,Manchester City,1.8,2.2,44,Chelsea
+2025-02-03,20:00 (21:00),Premier League,Matchweek 24,Home,W,2,1,West Ham,1.6,1.2,68,Chelsea
+2025-02-14,20:00 (21:00),Premier League,Matchweek 25,Away,L,0,3,Brighton,0.5,1.4,69,Chelsea
+2025-02-22,17:30 (18:30),Premier League,Matchweek 26,Away,L,1,2,Aston Villa,2.3,2.3,48,Chelsea
+2025-02-25,20:15,Premier League,Matchweek 27,Home,W,4,0,Southampton,2.4,0.7,60,Chelsea
+2025-03-09,14:00,Premier League,Matchweek 28,Home,W,1,0,Leicester City,1.7,0.1,56,Chelsea
+2025-03-16,13:30,Premier League,Matchweek 29,Away,L,0,1,Arsenal,0.4,0.7,58,Chelsea
+2025-04-03,20:00 (19:00),Premier League,Matchweek 30,Home,W,1,0,Tottenham,1.0,0.9,51,Chelsea
+2025-04-06,14:00,Premier League,Matchweek 31,Away,D,0,0,Brentford,1.2,1.1,58,Chelsea
+2025-04-13,14:00,Premier League,Matchweek 32,Home,D,2,2,Ipswich Town,2.2,1.1,73,Chelsea
+2025-04-20,14:00,Premier League,Matchweek 33,Away,W,2,1,Fulham,0.9,0.3,59,Chelsea
+2025-04-26,12:30,Premier League,Matchweek 34,Home,W,1,0,Everton,0.8,0.4,55,Chelsea
+2025-05-04,16:30,Premier League,Matchweek 35,Home,W,3,1,Liverpool,3.1,1.0,36,Chelsea
+2025-05-11,12:00,Premier League,Matchweek 36,Away,L,0,2,Newcastle Utd,0.7,1.6,55,Chelsea
+2025-05-16,20:15,Premier League,Matchweek 37,Home,W,1,0,Manchester Utd,0.8,0.3,47,Chelsea
+2025-05-25,16:00,Premier League,Matchweek 38,Away,W,1,0,Nott'ham Forest,1.1,1.2,48,Chelsea
+2024-08-17,15:00,Premier League,Matchweek 1,Home,W,1,0,Southampton,0.3,1.8,23,Newcastle United
+2024-08-25,14:00,Premier League,Matchweek 2,Away,D,1,1,Bournemouth,1.6,2.2,61,Newcastle United
+2024-09-01,13:30,Premier League,Matchweek 3,Home,W,2,1,Tottenham,1.8,1.2,35,Newcastle United
+2024-09-15,16:30,Premier League,Matchweek 4,Away,W,2,1,Wolves,1.5,1.2,51,Newcastle United
+2024-09-21,15:00,Premier League,Matchweek 5,Away,L,1,3,Fulham,1.5,2.2,61,Newcastle United
+2024-09-28,12:30,Premier League,Matchweek 6,Home,D,1,1,Manchester City,1.6,0.9,38,Newcastle United
+2024-10-05,17:30,Premier League,Matchweek 7,Away,D,0,0,Everton,2.1,0.7,67,Newcastle United
+2024-10-19,15:00,Premier League,Matchweek 8,Home,L,0,1,Brighton,2.0,1.1,60,Newcastle United
+2024-10-27,14:00 (15:00),Premier League,Matchweek 9,Away,L,1,2,Chelsea,1.8,1.6,50,Newcastle United
+2024-11-02,12:30 (13:30),Premier League,Matchweek 10,Home,W,1,0,Arsenal,0.5,1.1,37,Newcastle United
+2024-11-10,14:00 (15:00),Premier League,Matchweek 11,Away,W,3,1,Nott'ham Forest,1.6,0.6,56,Newcastle United
+2024-11-25,20:00 (21:00),Premier League,Matchweek 12,Home,L,0,2,West Ham,1.6,0.9,53,Newcastle United
+2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Away,D,1,1,Crystal Palace,0.0,1.7,51,Newcastle United
+2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Home,D,3,3,Liverpool,2.1,1.9,42,Newcastle United
+2024-12-07,15:00 (16:00),Premier League,Matchweek 15,Away,L,2,4,Brentford,1.5,1.2,57,Newcastle United
+2024-12-14,15:00 (16:00),Premier League,Matchweek 16,Home,W,4,0,Leicester City,3.8,0.2,59,Newcastle United
+2024-12-21,15:00 (16:00),Premier League,Matchweek 17,Away,W,4,0,Ipswich Town,2.3,0.7,58,Newcastle United
+2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Home,W,3,0,Aston Villa,2.7,0.3,62,Newcastle United
+2024-12-30,20:00 (21:00),Premier League,Matchweek 19,Away,W,2,0,Manchester Utd,1.9,0.8,48,Newcastle United
+2025-01-04,12:30 (13:30),Premier League,Matchweek 20,Away,W,2,1,Tottenham,2.5,0.9,44,Newcastle United
+2025-01-15,19:30 (20:30),Premier League,Matchweek 21,Home,W,3,0,Wolves,2.1,1.6,60,Newcastle United
+2025-01-18,12:30 (13:30),Premier League,Matchweek 22,Home,L,1,4,Bournemouth,0.8,2.0,56,Newcastle United
+2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Away,W,3,1,Southampton,2.9,0.8,47,Newcastle United
+2025-02-01,15:00 (16:00),Premier League,Matchweek 24,Home,L,1,2,Fulham,0.8,1.6,49,Newcastle United
+2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Away,L,0,4,Manchester City,0.5,1.9,39,Newcastle United
+2025-02-23,14:00,Premier League,Matchweek 26,Home,W,4,3,Nott'ham Forest,2.9,1.7,57,Newcastle United
+2025-02-26,20:15,Premier League,Matchweek 27,Away,L,0,2,Liverpool,0.2,1.7,39,Newcastle United
+2025-03-10,20:00,Premier League,Matchweek 28,Away,W,1,0,West Ham,1.4,0.7,49,Newcastle United
+2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Home,W,2,1,Brentford,1.3,1.5,49,Newcastle United
+2025-04-07,20:00,Premier League,Matchweek 31,Away,W,3,0,Leicester City,3.2,0.5,42,Newcastle United
+2025-04-13,16:30,Premier League,Matchweek 32,Home,W,4,1,Manchester Utd,2.2,0.7,48,Newcastle United
+2025-04-16,19:30,Premier League,Matchweek 29,Home,W,5,0,Crystal Palace,1.5,2.0,59,Newcastle United
+2025-04-19,17:30,Premier League,Matchweek 33,Away,L,1,4,Aston Villa,1.0,2.2,52,Newcastle United
+2025-04-26,15:00,Premier League,Matchweek 34,Home,W,3,0,Ipswich Town,2.4,0.1,77,Newcastle United
+2025-05-04,14:00,Premier League,Matchweek 35,Away,D,1,1,Brighton,1.7,0.7,55,Newcastle United
+2025-05-11,12:00,Premier League,Matchweek 36,Home,W,2,0,Chelsea,1.6,0.7,45,Newcastle United
+2025-05-18,16:30,Premier League,Matchweek 37,Away,L,0,1,Arsenal,1.5,0.6,49,Newcastle United
+2025-05-25,16:00,Premier League,Matchweek 38,Home,L,0,1,Everton,1.2,1.2,65,Newcastle United
+2024-08-18,14:00,Premier League,Matchweek 1,Away,L,1,2,Brentford,1.2,1.6,54,Crystal Palace
+2024-08-24,15:00,Premier League,Matchweek 2,Home,L,0,2,West Ham,1.3,1.4,58,Crystal Palace
+2024-09-01,13:30,Premier League,Matchweek 3,Away,D,1,1,Chelsea,0.5,2.4,38,Crystal Palace
+2024-09-14,15:00,Premier League,Matchweek 4,Home,D,2,2,Leicester City,2.5,1.2,66,Crystal Palace
+2024-09-21,17:30,Premier League,Matchweek 5,Home,D,0,0,Manchester Utd,1.0,1.6,33,Crystal Palace
+2024-09-28,15:00,Premier League,Matchweek 6,Away,L,1,2,Everton,0.9,0.9,59,Crystal Palace
+2024-10-05,12:30,Premier League,Matchweek 7,Home,L,0,1,Liverpool,0.6,1.4,32,Crystal Palace
+2024-10-21,20:00,Premier League,Matchweek 8,Away,L,0,1,Nott'ham Forest,1.0,1.7,49,Crystal Palace
+2024-10-27,14:00 (15:00),Premier League,Matchweek 9,Home,W,1,0,Tottenham,0.8,0.7,34,Crystal Palace
+2024-11-02,17:30 (18:30),Premier League,Matchweek 10,Away,D,2,2,Wolves,2.4,1.5,43,Crystal Palace
+2024-11-09,15:00 (16:00),Premier League,Matchweek 11,Home,L,0,2,Fulham,1.5,1.8,36,Crystal Palace
+2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Away,D,2,2,Aston Villa,1.3,3.0,31,Crystal Palace
+2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Home,D,1,1,Newcastle Utd,1.7,0.0,49,Crystal Palace
+2024-12-03,19:30 (20:30),Premier League,Matchweek 14,Away,W,1,0,Ipswich Town,1.6,0.5,46,Crystal Palace
+2024-12-07,15:00 (16:00),Premier League,Matchweek 15,Home,D,2,2,Manchester City,1.3,1.4,32,Crystal Palace
+2024-12-15,14:00 (15:00),Premier League,Matchweek 16,Away,W,3,1,Brighton,2.2,1.0,36,Crystal Palace
+2024-12-21,17:30 (18:30),Premier League,Matchweek 17,Home,L,1,5,Arsenal,1.6,2.5,42,Crystal Palace
+2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Away,D,0,0,Bournemouth,0.4,1.4,48,Crystal Palace
+2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Home,W,2,1,Southampton,2.0,0.9,47,Crystal Palace
+2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Home,D,1,1,Chelsea,1.1,1.2,39,Crystal Palace
+2025-01-15,19:30 (20:30),Premier League,Matchweek 21,Away,W,2,0,Leicester City,1.8,1.7,43,Crystal Palace
+2025-01-18,15:00 (16:00),Premier League,Matchweek 22,Away,W,2,0,West Ham,1.3,0.3,47,Crystal Palace
+2025-01-26,14:00 (15:00),Premier League,Matchweek 23,Home,L,1,2,Brentford,1.1,1.3,47,Crystal Palace
+2025-02-02,14:00 (15:00),Premier League,Matchweek 24,Away,W,2,0,Manchester Utd,2.6,1.1,34,Crystal Palace
+2025-02-15,17:30 (18:30),Premier League,Matchweek 25,Home,L,1,2,Everton,1.6,0.9,58,Crystal Palace
+2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Away,W,2,0,Fulham,1.3,0.2,38,Crystal Palace
+2025-02-25,19:30,Premier League,Matchweek 27,Home,W,4,1,Aston Villa,4.3,0.4,36,Crystal Palace
+2025-03-08,15:00,Premier League,Matchweek 28,Home,W,1,0,Ipswich Town,3.2,1.5,55,Crystal Palace
+2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Away,D,1,1,Southampton,0.7,0.7,57,Crystal Palace
+2025-04-05,15:00 (14:00),Premier League,Matchweek 31,Home,W,2,1,Brighton,0.6,1.0,38,Crystal Palace
+2025-04-12,12:30,Premier League,Matchweek 32,Away,L,2,5,Manchester City,1.8,3.7,33,Crystal Palace
+2025-04-16,19:30,Premier League,Matchweek 29,Away,L,0,5,Newcastle Utd,2.0,1.5,41,Crystal Palace
+2025-04-19,15:00,Premier League,Matchweek 33,Home,D,0,0,Bournemouth,0.4,0.7,29,Crystal Palace
+2025-04-23,20:00,Premier League,Matchweek 34,Away,D,2,2,Arsenal,1.7,1.2,33,Crystal Palace
+2025-05-05,20:00,Premier League,Matchweek 35,Home,D,1,1,Nott'ham Forest,2.3,0.7,50,Crystal Palace
+2025-05-11,14:15,Premier League,Matchweek 36,Away,W,2,0,Tottenham,3.3,0.7,52,Crystal Palace
+2025-05-20,20:00,Premier League,Matchweek 37,Home,W,4,2,Wolves,1.7,1.4,31,Crystal Palace
+2025-05-25,16:00,Premier League,Matchweek 38,Away,D,1,1,Liverpool,1.8,2.1,31,Crystal Palace
+2024-08-17,17:30,Premier League,Matchweek 1,Away,W,2,1,West Ham,2.0,2.3,48,Aston Villa
+2024-08-24,17:30,Premier League,Matchweek 2,Home,L,0,2,Arsenal,1.2,0.9,40,Aston Villa
+2024-08-31,15:00,Premier League,Matchweek 3,Away,W,2,1,Leicester City,1.4,0.4,43,Aston Villa
+2024-09-14,17:30,Premier League,Matchweek 4,Home,W,3,2,Everton,2.1,0.9,72,Aston Villa
+2024-09-21,15:00,Premier League,Matchweek 5,Home,W,3,1,Wolves,1.7,0.5,53,Aston Villa
+2024-09-29,14:00,Premier League,Matchweek 6,Away,D,2,2,Ipswich Town,0.8,1.2,56,Aston Villa
+2024-10-06,14:00,Premier League,Matchweek 7,Home,D,0,0,Manchester Utd,0.5,0.6,53,Aston Villa
+2024-10-19,15:00,Premier League,Matchweek 8,Away,W,3,1,Fulham,1.6,1.8,48,Aston Villa
+2024-10-26,15:00,Premier League,Matchweek 9,Home,D,1,1,Bournemouth,1.8,0.3,57,Aston Villa
+2024-11-03,14:00 (15:00),Premier League,Matchweek 10,Away,L,1,4,Tottenham,1.8,2.4,49,Aston Villa
+2024-11-09,20:00 (21:00),Premier League,Matchweek 11,Away,L,0,2,Liverpool,1.2,2.0,38,Aston Villa
+2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Home,D,2,2,Crystal Palace,3.0,1.3,69,Aston Villa
+2024-12-01,13:30 (14:30),Premier League,Matchweek 13,Away,L,0,3,Chelsea,1.2,1.6,36,Aston Villa
+2024-12-04,20:15 (21:15),Premier League,Matchweek 14,Home,W,3,1,Brentford,2.4,0.9,49,Aston Villa
+2024-12-07,15:00 (16:00),Premier League,Matchweek 15,Home,W,1,0,Southampton,2.3,0.3,47,Aston Villa
+2024-12-14,17:30 (18:30),Premier League,Matchweek 16,Away,L,1,2,Nott'ham Forest,0.4,1.7,50,Aston Villa
+2024-12-21,12:30 (13:30),Premier League,Matchweek 17,Home,W,2,1,Manchester City,1.6,1.0,44,Aston Villa
+2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Away,L,0,3,Newcastle Utd,0.3,2.7,38,Aston Villa
+2024-12-30,19:45 (20:45),Premier League,Matchweek 19,Home,D,2,2,Brighton,1.8,1.1,59,Aston Villa
+2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Home,W,2,1,Leicester City,1.4,0.4,60,Aston Villa
+2025-01-15,19:30 (20:30),Premier League,Matchweek 21,Away,W,1,0,Everton,1.2,1.1,50,Aston Villa
+2025-01-18,17:30 (18:30),Premier League,Matchweek 22,Away,D,2,2,Arsenal,1.0,1.3,34,Aston Villa
+2025-01-26,16:30 (17:30),Premier League,Matchweek 23,Home,D,1,1,West Ham,0.9,1.3,46,Aston Villa
+2025-02-01,17:30 (18:30),Premier League,Matchweek 24,Away,L,0,2,Wolves,0.4,1.6,68,Aston Villa
+2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Home,D,1,1,Ipswich Town,2.4,0.4,75,Aston Villa
+2025-02-19,19:30 (20:30),Premier League,Matchweek 29,Home,D,2,2,Liverpool,0.6,2.5,52,Aston Villa
+2025-02-22,17:30 (18:30),Premier League,Matchweek 26,Home,W,2,1,Chelsea,2.3,2.3,52,Aston Villa
+2025-02-25,19:30,Premier League,Matchweek 27,Away,L,1,4,Crystal Palace,0.4,4.3,64,Aston Villa
+2025-03-08,17:30,Premier League,Matchweek 28,Away,W,1,0,Brentford,1.3,0.8,41,Aston Villa
+2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Away,W,3,0,Brighton,1.2,0.9,44,Aston Villa
+2025-04-05,17:30 (16:30),Premier League,Matchweek 31,Home,W,2,1,Nott'ham Forest,3.0,1.5,52,Aston Villa
+2025-04-12,15:00,Premier League,Matchweek 32,Away,W,3,0,Southampton,3.0,0.3,60,Aston Villa
+2025-04-19,17:30,Premier League,Matchweek 33,Home,W,4,1,Newcastle Utd,2.2,1.0,48,Aston Villa
+2025-04-22,20:00,Premier League,Matchweek 34,Away,L,1,2,Manchester City,1.8,1.3,39,Aston Villa
+2025-05-03,12:30,Premier League,Matchweek 35,Home,W,1,0,Fulham,1.0,0.9,52,Aston Villa
+2025-05-10,17:30,Premier League,Matchweek 36,Away,W,1,0,Bournemouth,1.0,0.8,34,Aston Villa
+2025-05-16,19:30,Premier League,Matchweek 37,Home,W,2,0,Tottenham,1.4,0.5,67,Aston Villa
+2025-05-25,16:00,Premier League,Matchweek 38,Away,L,0,2,Manchester Utd,0.4,2.9,33,Aston Villa
+2024-08-17,15:00,Premier League,Matchweek 1,Home,D,1,1,Bournemouth,1.3,1.2,53,Nottingham Forest
+2024-08-24,15:00,Premier League,Matchweek 2,Away,W,1,0,Southampton,2.2,0.1,36,Nottingham Forest
+2024-08-31,15:00,Premier League,Matchweek 3,Home,D,1,1,Wolves,1.0,0.7,52,Nottingham Forest
+2024-09-14,15:00,Premier League,Matchweek 4,Away,W,1,0,Liverpool,0.4,0.9,32,Nottingham Forest
+2024-09-22,14:00,Premier League,Matchweek 5,Away,D,2,2,Brighton,1.4,1.0,30,Nottingham Forest
+2024-09-28,15:00,Premier League,Matchweek 6,Home,L,0,1,Fulham,0.8,1.3,41,Nottingham Forest
+2024-10-06,14:00,Premier League,Matchweek 7,Away,D,1,1,Chelsea,0.9,2.3,35,Nottingham Forest
+2024-10-21,20:00,Premier League,Matchweek 8,Home,W,1,0,Crystal Palace,1.7,1.0,51,Nottingham Forest
+2024-10-25,20:00,Premier League,Matchweek 9,Away,W,3,1,Leicester City,1.7,0.8,35,Nottingham Forest
+2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Home,W,3,0,West Ham,2.2,0.1,54,Nottingham Forest
+2024-11-10,14:00 (15:00),Premier League,Matchweek 11,Home,L,1,3,Newcastle Utd,0.6,1.6,44,Nottingham Forest
+2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Away,L,0,3,Arsenal,0.3,1.2,34,Nottingham Forest
+2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Home,W,1,0,Ipswich Town,1.6,0.6,45,Nottingham Forest
+2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Away,L,0,3,Manchester City,1.0,2.4,34,Nottingham Forest
+2024-12-07,17:30 (18:30),Premier League,Matchweek 15,Away,W,3,2,Manchester Utd,0.8,1.6,29,Nottingham Forest
+2024-12-14,17:30 (18:30),Premier League,Matchweek 16,Home,W,2,1,Aston Villa,1.7,0.4,50,Nottingham Forest
+2024-12-21,15:00 (16:00),Premier League,Matchweek 17,Away,W,2,0,Brentford,0.9,0.7,36,Nottingham Forest
+2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Home,W,1,0,Tottenham,1.1,0.9,30,Nottingham Forest
+2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Away,W,2,0,Everton,1.5,0.9,36,Nottingham Forest
+2025-01-06,20:00 (21:00),Premier League,Matchweek 20,Away,W,3,0,Wolves,2.1,1.5,40,Nottingham Forest
+2025-01-14,20:00 (21:00),Premier League,Matchweek 21,Home,D,1,1,Liverpool,0.3,2.0,30,Nottingham Forest
+2025-01-19,14:00 (15:00),Premier League,Matchweek 22,Home,W,3,2,Southampton,1.8,0.9,45,Nottingham Forest
+2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Away,L,0,5,Bournemouth,1.0,1.7,50,Nottingham Forest
+2025-02-01,12:30 (13:30),Premier League,Matchweek 24,Home,W,7,0,Brighton,3.3,0.9,38,Nottingham Forest
+2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Away,L,1,2,Fulham,0.4,2.1,45,Nottingham Forest
+2025-02-23,14:00,Premier League,Matchweek 26,Away,L,3,4,Newcastle Utd,1.7,2.9,43,Nottingham Forest
+2025-02-26,19:30,Premier League,Matchweek 27,Home,D,0,0,Arsenal,0.4,1.0,36,Nottingham Forest
+2025-03-08,12:30,Premier League,Matchweek 28,Home,W,1,0,Manchester City,0.7,0.9,31,Nottingham Forest
+2025-03-15,15:00,Premier League,Matchweek 29,Away,W,4,2,Ipswich Town,1.5,0.4,45,Nottingham Forest
+2025-04-01,20:00 (19:00),Premier League,Matchweek 30,Home,W,1,0,Manchester Utd,0.5,1.6,32,Nottingham Forest
+2025-04-05,17:30 (16:30),Premier League,Matchweek 31,Away,L,1,2,Aston Villa,1.5,3.0,48,Nottingham Forest
+2025-04-12,15:00,Premier League,Matchweek 32,Home,L,0,1,Everton,0.5,1.4,43,Nottingham Forest
+2025-04-21,20:00,Premier League,Matchweek 33,Away,W,2,1,Tottenham,0.5,2.1,31,Nottingham Forest
+2025-05-01,19:30,Premier League,Matchweek 34,Home,L,0,2,Brentford,0.9,1.3,55,Nottingham Forest
+2025-05-05,20:00,Premier League,Matchweek 35,Away,D,1,1,Crystal Palace,0.7,2.3,50,Nottingham Forest
+2025-05-11,14:15,Premier League,Matchweek 36,Home,D,2,2,Leicester City,1.3,1.1,55,Nottingham Forest
+2025-05-18,14:15,Premier League,Matchweek 37,Away,W,2,1,West Ham,1.9,1.1,40,Nottingham Forest
+2025-05-25,16:00,Premier League,Matchweek 38,Home,L,0,1,Chelsea,1.2,1.1,52,Nottingham Forest
+2024-08-19,20:00,Premier League,Matchweek 1,Home,D,1,1,Tottenham,1.0,1.2,30,Leicester City
+2024-08-24,15:00,Premier League,Matchweek 2,Away,L,1,2,Fulham,0.6,1.8,46,Leicester City
+2024-08-31,15:00,Premier League,Matchweek 3,Home,L,1,2,Aston Villa,0.4,1.4,57,Leicester City
+2024-09-14,15:00,Premier League,Matchweek 4,Away,D,2,2,Crystal Palace,1.2,2.5,34,Leicester City
+2024-09-21,15:00,Premier League,Matchweek 5,Home,D,1,1,Everton,0.7,1.1,58,Leicester City
+2024-09-28,15:00,Premier League,Matchweek 6,Away,L,2,4,Arsenal,0.3,4.4,26,Leicester City
+2024-10-05,15:00,Premier League,Matchweek 7,Home,W,1,0,Bournemouth,0.8,2.1,45,Leicester City
+2024-10-19,15:00,Premier League,Matchweek 8,Away,W,3,2,Southampton,3.1,2.1,58,Leicester City
+2024-10-25,20:00,Premier League,Matchweek 9,Home,L,1,3,Nott'ham Forest,0.8,1.7,65,Leicester City
+2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Away,D,1,1,Ipswich Town,1.5,1.0,57,Leicester City
+2024-11-10,14:00 (15:00),Premier League,Matchweek 11,Away,L,0,3,Manchester Utd,0.6,0.8,49,Leicester City
+2024-11-23,12:30 (13:30),Premier League,Matchweek 12,Home,L,1,2,Chelsea,1.1,2.7,37,Leicester City
+2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Away,L,1,4,Brentford,1.1,2.4,40,Leicester City
+2024-12-03,20:15 (21:15),Premier League,Matchweek 14,Home,W,3,1,West Ham,1.7,3.0,39,Leicester City
+2024-12-08,14:00 (15:00),Premier League,Matchweek 15,Home,D,2,2,Brighton,1.3,1.5,56,Leicester City
+2024-12-14,15:00 (16:00),Premier League,Matchweek 16,Away,L,0,4,Newcastle Utd,0.2,3.8,41,Leicester City
+2024-12-22,14:00 (15:00),Premier League,Matchweek 17,Home,L,0,3,Wolves,0.8,1.1,54,Leicester City
+2024-12-26,20:00 (21:00),Premier League,Matchweek 18,Away,L,1,3,Liverpool,0.3,2.0,32,Leicester City
+2024-12-29,14:30 (15:30),Premier League,Matchweek 19,Home,L,0,2,Manchester City,1.3,1.3,53,Leicester City
+2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Away,L,1,2,Aston Villa,0.4,1.4,40,Leicester City
+2025-01-15,19:30 (20:30),Premier League,Matchweek 21,Home,L,0,2,Crystal Palace,1.7,1.8,57,Leicester City
+2025-01-18,15:00 (16:00),Premier League,Matchweek 22,Home,L,0,2,Fulham,0.6,2.0,40,Leicester City
+2025-01-26,14:00 (15:00),Premier League,Matchweek 23,Away,W,2,1,Tottenham,1.6,1.0,39,Leicester City
+2025-02-01,15:00 (16:00),Premier League,Matchweek 24,Away,L,0,4,Everton,0.3,2.5,52,Leicester City
+2025-02-15,12:30 (13:30),Premier League,Matchweek 25,Home,L,0,2,Arsenal,0.2,1.4,40,Leicester City
+2025-02-21,20:00 (21:00),Premier League,Matchweek 26,Home,L,0,4,Brentford,0.5,1.5,48,Leicester City
+2025-02-27,20:00,Premier League,Matchweek 27,Away,L,0,2,West Ham,0.4,1.3,42,Leicester City
+2025-03-09,14:00,Premier League,Matchweek 28,Away,L,0,1,Chelsea,0.1,1.7,44,Leicester City
+2025-03-16,19:00,Premier League,Matchweek 29,Home,L,0,3,Manchester Utd,1.0,0.9,53,Leicester City
+2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Away,L,0,2,Manchester City,0.1,2.2,28,Leicester City
+2025-04-07,20:00,Premier League,Matchweek 31,Home,L,0,3,Newcastle Utd,0.5,3.2,58,Leicester City
+2025-04-12,15:00,Premier League,Matchweek 32,Away,D,2,2,Brighton,1.5,3.8,41,Leicester City
+2025-04-20,16:30,Premier League,Matchweek 33,Home,L,0,1,Liverpool,0.3,2.5,42,Leicester City
+2025-04-26,15:00,Premier League,Matchweek 34,Away,L,0,3,Wolves,1.1,2.0,44,Leicester City
+2025-05-03,15:00,Premier League,Matchweek 35,Home,W,2,0,Southampton,1.4,0.5,49,Leicester City
+2025-05-11,14:15,Premier League,Matchweek 36,Away,D,2,2,Nott'ham Forest,1.1,1.3,45,Leicester City
+2025-05-18,15:00,Premier League,Matchweek 37,Home,W,2,0,Ipswich Town,0.8,1.4,50,Leicester City
+2025-05-25,16:00,Premier League,Matchweek 38,Away,L,0,2,Bournemouth,0.3,1.6,37,Leicester City
+2024-08-17,12:30,Premier League,Matchweek 1,Home,L,0,2,Liverpool,0.5,2.6,38,Ipswich Town
+2024-08-24,15:00,Premier League,Matchweek 2,Away,L,1,4,Manchester City,0.3,3.3,25,Ipswich Town
+2024-08-31,15:00,Premier League,Matchweek 3,Home,D,1,1,Fulham,0.4,0.9,48,Ipswich Town
+2024-09-14,15:00,Premier League,Matchweek 4,Away,D,0,0,Brighton,0.3,1.6,32,Ipswich Town
+2024-09-21,15:00,Premier League,Matchweek 5,Away,D,1,1,Southampton,1.6,2.4,47,Ipswich Town
+2024-09-29,14:00,Premier League,Matchweek 6,Home,D,2,2,Aston Villa,1.2,0.8,44,Ipswich Town
+2024-10-05,15:00,Premier League,Matchweek 7,Away,L,1,4,West Ham,0.6,3.6,48,Ipswich Town
+2024-10-19,15:00,Premier League,Matchweek 8,Home,L,0,2,Everton,1.3,1.7,55,Ipswich Town
+2024-10-26,15:00,Premier League,Matchweek 9,Away,L,3,4,Brentford,1.3,4.0,35,Ipswich Town
+2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Home,D,1,1,Leicester City,1.0,1.5,43,Ipswich Town
+2024-11-10,14:00 (15:00),Premier League,Matchweek 11,Away,W,2,1,Tottenham,1.6,1.5,34,Ipswich Town
+2024-11-24,16:30 (17:30),Premier League,Matchweek 12,Home,D,1,1,Manchester Utd,1.6,0.8,40,Ipswich Town
+2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Away,L,0,1,Nott'ham Forest,0.6,1.6,55,Ipswich Town
+2024-12-03,19:30 (20:30),Premier League,Matchweek 14,Home,L,0,1,Crystal Palace,0.5,1.6,54,Ipswich Town
+2024-12-08,14:00 (15:00),Premier League,Matchweek 15,Home,L,1,2,Bournemouth,1.3,3.2,44,Ipswich Town
+2024-12-14,15:00 (16:00),Premier League,Matchweek 16,Away,W,2,1,Wolves,1.1,1.3,46,Ipswich Town
+2024-12-21,15:00 (16:00),Premier League,Matchweek 17,Home,L,0,4,Newcastle Utd,0.7,2.3,42,Ipswich Town
+2024-12-27,20:15 (21:15),Premier League,Matchweek 18,Away,L,0,1,Arsenal,0.2,1.8,32,Ipswich Town
+2024-12-30,19:45 (20:45),Premier League,Matchweek 19,Home,W,2,0,Chelsea,1.6,2.0,24,Ipswich Town
+2025-01-05,14:00 (15:00),Premier League,Matchweek 20,Away,D,2,2,Fulham,1.5,2.2,27,Ipswich Town
+2025-01-16,19:30 (20:30),Premier League,Matchweek 21,Home,L,0,2,Brighton,0.3,1.0,47,Ipswich Town
+2025-01-19,16:30 (17:30),Premier League,Matchweek 22,Home,L,0,6,Manchester City,0.5,3.0,33,Ipswich Town
+2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Away,L,1,4,Liverpool,0.5,2.0,30,Ipswich Town
+2025-02-01,15:00 (16:00),Premier League,Matchweek 24,Home,L,1,2,Southampton,1.8,0.9,57,Ipswich Town
+2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Away,D,1,1,Aston Villa,0.4,2.4,25,Ipswich Town
+2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Home,L,1,4,Tottenham,1.1,1.7,42,Ipswich Town
+2025-02-26,19:30,Premier League,Matchweek 27,Away,L,2,3,Manchester Utd,1.4,0.7,55,Ipswich Town
+2025-03-08,15:00,Premier League,Matchweek 28,Away,L,0,1,Crystal Palace,1.5,3.2,45,Ipswich Town
+2025-03-15,15:00,Premier League,Matchweek 29,Home,L,2,4,Nott'ham Forest,0.4,1.5,55,Ipswich Town
+2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Away,W,2,1,Bournemouth,1.2,1.8,37,Ipswich Town
+2025-04-05,15:00 (14:00),Premier League,Matchweek 31,Home,L,1,2,Wolves,0.8,2.6,45,Ipswich Town
+2025-04-13,14:00,Premier League,Matchweek 32,Away,D,2,2,Chelsea,1.1,2.2,27,Ipswich Town
+2025-04-20,14:00,Premier League,Matchweek 33,Home,L,0,4,Arsenal,0.2,2.4,25,Ipswich Town
+2025-04-26,15:00,Premier League,Matchweek 34,Away,L,0,3,Newcastle Utd,0.1,2.4,23,Ipswich Town
+2025-05-03,15:00,Premier League,Matchweek 35,Away,D,2,2,Everton,0.8,0.6,42,Ipswich Town
+2025-05-10,15:00,Premier League,Matchweek 36,Home,L,0,1,Brentford,0.9,1.4,49,Ipswich Town
+2025-05-18,15:00,Premier League,Matchweek 37,Away,L,0,2,Leicester City,1.4,0.8,50,Ipswich Town
+2025-05-25,16:00,Premier League,Matchweek 38,Home,L,1,3,West Ham,0.7,1.1,42,Ipswich Town
+2024-08-17,15:00,Premier League,Matchweek 1,Away,L,0,1,Newcastle Utd,1.8,0.3,77,Southampton
+2024-08-24,15:00,Premier League,Matchweek 2,Home,L,0,1,Nott'ham Forest,0.1,2.2,64,Southampton
+2024-08-31,15:00,Premier League,Matchweek 3,Away,L,1,3,Brentford,1.5,2.8,63,Southampton
+2024-09-14,12:30,Premier League,Matchweek 4,Home,L,0,3,Manchester Utd,1.1,2.6,44,Southampton
+2024-09-21,15:00,Premier League,Matchweek 5,Home,D,1,1,Ipswich Town,2.4,1.6,53,Southampton
+2024-09-30,20:00,Premier League,Matchweek 6,Away,L,1,3,Bournemouth,0.6,1.3,60,Southampton
+2024-10-05,15:00,Premier League,Matchweek 7,Away,L,1,3,Arsenal,0.6,2.8,41,Southampton
+2024-10-19,15:00,Premier League,Matchweek 8,Home,L,2,3,Leicester City,2.1,3.1,42,Southampton
+2024-10-26,15:00,Premier League,Matchweek 9,Away,L,0,1,Manchester City,0.2,2.9,43,Southampton
+2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Home,W,1,0,Everton,0.7,1.6,65,Southampton
+2024-11-09,15:00 (16:00),Premier League,Matchweek 11,Away,L,0,2,Wolves,0.6,1.3,71,Southampton
+2024-11-24,14:00 (15:00),Premier League,Matchweek 12,Home,L,2,3,Liverpool,1.3,3.1,38,Southampton
+2024-11-29,20:00 (21:00),Premier League,Matchweek 13,Away,D,1,1,Brighton,1.0,1.7,47,Southampton
+2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Home,L,1,5,Chelsea,1.6,5.2,45,Southampton
+2024-12-07,15:00 (16:00),Premier League,Matchweek 15,Away,L,0,1,Aston Villa,0.3,2.3,53,Southampton
+2024-12-15,19:00 (20:00),Premier League,Matchweek 16,Home,L,0,5,Tottenham,0.8,2.3,42,Southampton
+2024-12-22,14:00 (15:00),Premier League,Matchweek 17,Away,D,0,0,Fulham,0.3,0.9,43,Southampton
+2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Home,L,0,1,West Ham,1.4,1.7,54,Southampton
+2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Away,L,1,2,Crystal Palace,0.9,2.0,53,Southampton
+2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Home,L,0,5,Brentford,0.3,4.4,50,Southampton
+2025-01-16,20:00 (21:00),Premier League,Matchweek 21,Away,L,1,3,Manchester Utd,1.4,3.4,40,Southampton
+2025-01-19,14:00 (15:00),Premier League,Matchweek 22,Away,L,2,3,Nott'ham Forest,0.9,1.8,55,Southampton
+2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Home,L,1,3,Newcastle Utd,0.8,2.9,53,Southampton
+2025-02-01,15:00 (16:00),Premier League,Matchweek 24,Away,W,2,1,Ipswich Town,0.9,1.8,43,Southampton
+2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Home,L,1,3,Bournemouth,0.8,1.2,44,Southampton
+2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Home,L,0,4,Brighton,0.1,3.9,50,Southampton
+2025-02-25,20:15,Premier League,Matchweek 27,Away,L,0,4,Chelsea,0.7,2.4,40,Southampton
+2025-03-08,15:00,Premier League,Matchweek 28,Away,L,1,3,Liverpool,0.4,3.9,29,Southampton
+2025-03-15,15:00,Premier League,Matchweek 29,Home,L,1,2,Wolves,1.3,0.4,60,Southampton
+2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Home,D,1,1,Crystal Palace,0.7,0.7,43,Southampton
+2025-04-06,14:00,Premier League,Matchweek 31,Away,L,1,3,Tottenham,1.0,2.1,49,Southampton
+2025-04-12,15:00,Premier League,Matchweek 32,Home,L,0,3,Aston Villa,0.3,3.0,40,Southampton
+2025-04-19,15:00,Premier League,Matchweek 33,Away,D,1,1,West Ham,0.6,0.9,48,Southampton
+2025-04-26,15:00,Premier League,Matchweek 34,Home,L,1,2,Fulham,0.6,2.4,35,Southampton
+2025-05-03,15:00,Premier League,Matchweek 35,Away,L,0,2,Leicester City,0.5,1.4,51,Southampton
+2025-05-10,15:00,Premier League,Matchweek 36,Home,D,0,0,Manchester City,0.1,1.7,28,Southampton
+2025-05-18,12:00,Premier League,Matchweek 37,Away,L,0,2,Everton,1.2,2.7,50,Southampton
+2025-05-25,16:00,Premier League,Matchweek 38,Home,L,1,2,Arsenal,0.6,2.3,38,Southampton
+2024-08-17,15:00,Premier League,Matchweek 1,Home,W,1,0,Southampton,0.3,1.8,23,Newcastle Utd
+2024-08-25,14:00,Premier League,Matchweek 2,Away,D,1,1,Bournemouth,1.6,2.2,61,Newcastle Utd
+2024-09-01,13:30,Premier League,Matchweek 3,Home,W,2,1,Tottenham,1.8,1.2,35,Newcastle Utd
+2024-09-15,16:30,Premier League,Matchweek 4,Away,W,2,1,Wolves,1.5,1.2,51,Newcastle Utd
+2024-09-21,15:00,Premier League,Matchweek 5,Away,L,1,3,Fulham,1.5,2.2,61,Newcastle Utd
+2024-09-28,12:30,Premier League,Matchweek 6,Home,D,1,1,Manchester City,1.6,0.9,38,Newcastle Utd
+2024-10-05,17:30,Premier League,Matchweek 7,Away,D,0,0,Everton,2.1,0.7,67,Newcastle Utd
+2024-10-19,15:00,Premier League,Matchweek 8,Home,L,0,1,Brighton,2.0,1.1,60,Newcastle Utd
+2024-10-27,14:00 (15:00),Premier League,Matchweek 9,Away,L,1,2,Chelsea,1.8,1.6,50,Newcastle Utd
+2024-11-02,12:30 (13:30),Premier League,Matchweek 10,Home,W,1,0,Arsenal,0.5,1.1,37,Newcastle Utd
+2024-11-10,14:00 (15:00),Premier League,Matchweek 11,Away,W,3,1,Nott'ham Forest,1.6,0.6,56,Newcastle Utd
+2024-11-25,20:00 (21:00),Premier League,Matchweek 12,Home,L,0,2,West Ham,1.6,0.9,53,Newcastle Utd
+2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Away,D,1,1,Crystal Palace,0.0,1.7,51,Newcastle Utd
+2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Home,D,3,3,Liverpool,2.1,1.9,42,Newcastle Utd
+2024-12-07,15:00 (16:00),Premier League,Matchweek 15,Away,L,2,4,Brentford,1.5,1.2,57,Newcastle Utd
+2024-12-14,15:00 (16:00),Premier League,Matchweek 16,Home,W,4,0,Leicester City,3.8,0.2,59,Newcastle Utd
+2024-12-21,15:00 (16:00),Premier League,Matchweek 17,Away,W,4,0,Ipswich Town,2.3,0.7,58,Newcastle Utd
+2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Home,W,3,0,Aston Villa,2.7,0.3,62,Newcastle Utd
+2024-12-30,20:00 (21:00),Premier League,Matchweek 19,Away,W,2,0,Manchester Utd,1.9,0.8,48,Newcastle Utd
+2025-01-04,12:30 (13:30),Premier League,Matchweek 20,Away,W,2,1,Tottenham,2.5,0.9,44,Newcastle Utd
+2025-01-15,19:30 (20:30),Premier League,Matchweek 21,Home,W,3,0,Wolves,2.1,1.6,60,Newcastle Utd
+2025-01-18,12:30 (13:30),Premier League,Matchweek 22,Home,L,1,4,Bournemouth,0.8,2.0,56,Newcastle Utd
+2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Away,W,3,1,Southampton,2.9,0.8,47,Newcastle Utd
+2025-02-01,15:00 (16:00),Premier League,Matchweek 24,Home,L,1,2,Fulham,0.8,1.6,49,Newcastle Utd
+2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Away,L,0,4,Manchester City,0.5,1.9,39,Newcastle Utd
+2025-02-23,14:00,Premier League,Matchweek 26,Home,W,4,3,Nott'ham Forest,2.9,1.7,57,Newcastle Utd
+2025-02-26,20:15,Premier League,Matchweek 27,Away,L,0,2,Liverpool,0.2,1.7,39,Newcastle Utd
+2025-03-10,20:00,Premier League,Matchweek 28,Away,W,1,0,West Ham,1.4,0.7,49,Newcastle Utd
+2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Home,W,2,1,Brentford,1.3,1.5,49,Newcastle Utd
+2025-04-07,20:00,Premier League,Matchweek 31,Away,W,3,0,Leicester City,3.2,0.5,42,Newcastle Utd
+2025-04-13,16:30,Premier League,Matchweek 32,Home,W,4,1,Manchester Utd,2.2,0.7,48,Newcastle Utd
+2025-04-16,19:30,Premier League,Matchweek 29,Home,W,5,0,Crystal Palace,1.5,2.0,59,Newcastle Utd
+2025-04-19,17:30,Premier League,Matchweek 33,Away,L,1,4,Aston Villa,1.0,2.2,52,Newcastle Utd
+2025-04-26,15:00,Premier League,Matchweek 34,Home,W,3,0,Ipswich Town,2.4,0.1,77,Newcastle Utd
+2025-05-04,14:00,Premier League,Matchweek 35,Away,D,1,1,Brighton,1.7,0.7,55,Newcastle Utd
+2025-05-11,12:00,Premier League,Matchweek 36,Home,W,2,0,Chelsea,1.6,0.7,45,Newcastle Utd
+2025-05-18,16:30,Premier League,Matchweek 37,Away,L,0,1,Arsenal,1.5,0.6,49,Newcastle Utd
+2025-05-25,16:00,Premier League,Matchweek 38,Home,L,0,1,Everton,1.2,1.2,65,Newcastle Utd
+2024-08-17,15:00,Premier League,Matchweek 1,Home,D,1,1,Bournemouth,1.3,1.2,53,Nott'ham Forest
+2024-08-24,15:00,Premier League,Matchweek 2,Away,W,1,0,Southampton,2.2,0.1,36,Nott'ham Forest
+2024-08-31,15:00,Premier League,Matchweek 3,Home,D,1,1,Wolves,1.0,0.7,52,Nott'ham Forest
+2024-09-14,15:00,Premier League,Matchweek 4,Away,W,1,0,Liverpool,0.4,0.9,32,Nott'ham Forest
+2024-09-22,14:00,Premier League,Matchweek 5,Away,D,2,2,Brighton,1.4,1.0,30,Nott'ham Forest
+2024-09-28,15:00,Premier League,Matchweek 6,Home,L,0,1,Fulham,0.8,1.3,41,Nott'ham Forest
+2024-10-06,14:00,Premier League,Matchweek 7,Away,D,1,1,Chelsea,0.9,2.3,35,Nott'ham Forest
+2024-10-21,20:00,Premier League,Matchweek 8,Home,W,1,0,Crystal Palace,1.7,1.0,51,Nott'ham Forest
+2024-10-25,20:00,Premier League,Matchweek 9,Away,W,3,1,Leicester City,1.7,0.8,35,Nott'ham Forest
+2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Home,W,3,0,West Ham,2.2,0.1,54,Nott'ham Forest
+2024-11-10,14:00 (15:00),Premier League,Matchweek 11,Home,L,1,3,Newcastle Utd,0.6,1.6,44,Nott'ham Forest
+2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Away,L,0,3,Arsenal,0.3,1.2,34,Nott'ham Forest
+2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Home,W,1,0,Ipswich Town,1.6,0.6,45,Nott'ham Forest
+2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Away,L,0,3,Manchester City,1.0,2.4,34,Nott'ham Forest
+2024-12-07,17:30 (18:30),Premier League,Matchweek 15,Away,W,3,2,Manchester Utd,0.8,1.6,29,Nott'ham Forest
+2024-12-14,17:30 (18:30),Premier League,Matchweek 16,Home,W,2,1,Aston Villa,1.7,0.4,50,Nott'ham Forest
+2024-12-21,15:00 (16:00),Premier League,Matchweek 17,Away,W,2,0,Brentford,0.9,0.7,36,Nott'ham Forest
+2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Home,W,1,0,Tottenham,1.1,0.9,30,Nott'ham Forest
+2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Away,W,2,0,Everton,1.5,0.9,36,Nott'ham Forest
+2025-01-06,20:00 (21:00),Premier League,Matchweek 20,Away,W,3,0,Wolves,2.1,1.5,40,Nott'ham Forest
+2025-01-14,20:00 (21:00),Premier League,Matchweek 21,Home,D,1,1,Liverpool,0.3,2.0,30,Nott'ham Forest
+2025-01-19,14:00 (15:00),Premier League,Matchweek 22,Home,W,3,2,Southampton,1.8,0.9,45,Nott'ham Forest
+2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Away,L,0,5,Bournemouth,1.0,1.7,50,Nott'ham Forest
+2025-02-01,12:30 (13:30),Premier League,Matchweek 24,Home,W,7,0,Brighton,3.3,0.9,38,Nott'ham Forest
+2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Away,L,1,2,Fulham,0.4,2.1,45,Nott'ham Forest
+2025-02-23,14:00,Premier League,Matchweek 26,Away,L,3,4,Newcastle Utd,1.7,2.9,43,Nott'ham Forest
+2025-02-26,19:30,Premier League,Matchweek 27,Home,D,0,0,Arsenal,0.4,1.0,36,Nott'ham Forest
+2025-03-08,12:30,Premier League,Matchweek 28,Home,W,1,0,Manchester City,0.7,0.9,31,Nott'ham Forest
+2025-03-15,15:00,Premier League,Matchweek 29,Away,W,4,2,Ipswich Town,1.5,0.4,45,Nott'ham Forest
+2025-04-01,20:00 (19:00),Premier League,Matchweek 30,Home,W,1,0,Manchester Utd,0.5,1.6,32,Nott'ham Forest
+2025-04-05,17:30 (16:30),Premier League,Matchweek 31,Away,L,1,2,Aston Villa,1.5,3.0,48,Nott'ham Forest
+2025-04-12,15:00,Premier League,Matchweek 32,Home,L,0,1,Everton,0.5,1.4,43,Nott'ham Forest
+2025-04-21,20:00,Premier League,Matchweek 33,Away,W,2,1,Tottenham,0.5,2.1,31,Nott'ham Forest
+2025-05-01,19:30,Premier League,Matchweek 34,Home,L,0,2,Brentford,0.9,1.3,55,Nott'ham Forest
+2025-05-05,20:00,Premier League,Matchweek 35,Away,D,1,1,Crystal Palace,0.7,2.3,50,Nott'ham Forest
+2025-05-11,14:15,Premier League,Matchweek 36,Home,D,2,2,Leicester City,1.3,1.1,55,Nott'ham Forest
+2025-05-18,14:15,Premier League,Matchweek 37,Away,W,2,1,West Ham,1.9,1.1,40,Nott'ham Forest
+2025-05-25,16:00,Premier League,Matchweek 38,Home,L,0,1,Chelsea,1.2,1.1,52,Nott'ham Forest
+2024-08-17,15:00,Premier League,Matchweek 1,Away,W,3,0,Everton,1.4,0.5,60,Brighton
+2024-08-24,12:30,Premier League,Matchweek 2,Home,W,2,1,Manchester Utd,2.1,1.4,48,Brighton
+2024-08-31,12:30,Premier League,Matchweek 3,Away,D,1,1,Arsenal,1.7,2.1,64,Brighton
+2024-09-14,15:00,Premier League,Matchweek 4,Home,D,0,0,Ipswich Town,1.6,0.3,68,Brighton
+2024-09-22,14:00,Premier League,Matchweek 5,Home,D,2,2,Nott'ham Forest,1.0,1.4,70,Brighton
+2024-09-28,15:00,Premier League,Matchweek 6,Away,L,2,4,Chelsea,1.1,4.2,59,Brighton
+2024-10-06,16:30,Premier League,Matchweek 7,Home,W,3,2,Tottenham,1.8,1.3,41,Brighton
+2024-10-19,15:00,Premier League,Matchweek 8,Away,W,1,0,Newcastle Utd,1.1,2.0,40,Brighton
+2024-10-26,15:00,Premier League,Matchweek 9,Home,D,2,2,Wolves,1.3,1.3,51,Brighton
+2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Away,L,1,2,Liverpool,1.0,1.6,51,Brighton
+2024-11-09,17:30 (18:30),Premier League,Matchweek 11,Home,W,2,1,Manchester City,2.3,2.1,40,Brighton
+2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Away,W,2,1,Bournemouth,0.9,1.6,45,Brighton
+2024-11-29,20:00 (21:00),Premier League,Matchweek 13,Home,D,1,1,Southampton,1.7,1.0,53,Brighton
+2024-12-05,19:30 (20:30),Premier League,Matchweek 14,Away,L,1,3,Fulham,1.4,1.1,57,Brighton
+2024-12-08,14:00 (15:00),Premier League,Matchweek 15,Away,D,2,2,Leicester City,1.5,1.3,44,Brighton
+2024-12-15,14:00 (15:00),Premier League,Matchweek 16,Home,L,1,3,Crystal Palace,1.0,2.2,64,Brighton
+2024-12-21,15:00 (16:00),Premier League,Matchweek 17,Away,D,1,1,West Ham,0.9,1.2,53,Brighton
+2024-12-27,19:30 (20:30),Premier League,Matchweek 18,Home,D,0,0,Brentford,1.3,1.1,57,Brighton
+2024-12-30,19:45 (20:45),Premier League,Matchweek 19,Away,D,2,2,Aston Villa,1.1,1.8,41,Brighton
+2025-01-04,17:30 (18:30),Premier League,Matchweek 20,Home,D,1,1,Arsenal,1.5,0.9,45,Brighton
+2025-01-16,19:30 (20:30),Premier League,Matchweek 21,Away,W,2,0,Ipswich Town,1.0,0.3,53,Brighton
+2025-01-19,14:00 (15:00),Premier League,Matchweek 22,Away,W,3,1,Manchester Utd,1.9,1.5,49,Brighton
+2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Home,L,0,1,Everton,0.7,0.8,69,Brighton
+2025-02-01,12:30 (13:30),Premier League,Matchweek 24,Away,L,0,7,Nott'ham Forest,0.9,3.3,62,Brighton
+2025-02-14,20:00 (21:00),Premier League,Matchweek 25,Home,W,3,0,Chelsea,1.4,0.5,31,Brighton
+2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Away,W,4,0,Southampton,3.9,0.1,50,Brighton
+2025-02-25,19:30,Premier League,Matchweek 27,Home,W,2,1,Bournemouth,2.4,1.5,44,Brighton
+2025-03-08,15:00,Premier League,Matchweek 28,Home,W,2,1,Fulham,1.5,0.9,53,Brighton
+2025-03-15,15:00,Premier League,Matchweek 29,Away,D,2,2,Manchester City,2.0,1.7,40,Brighton
+2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Home,L,0,3,Aston Villa,0.9,1.2,56,Brighton
+2025-04-05,15:00 (14:00),Premier League,Matchweek 31,Away,L,1,2,Crystal Palace,1.0,0.6,62,Brighton
+2025-04-12,15:00,Premier League,Matchweek 32,Home,D,2,2,Leicester City,3.8,1.5,59,Brighton
+2025-04-19,15:00,Premier League,Matchweek 33,Away,L,2,4,Brentford,1.4,2.1,53,Brighton
+2025-04-26,15:00,Premier League,Matchweek 34,Home,W,3,2,West Ham,1.3,1.3,53,Brighton
+2025-05-04,14:00,Premier League,Matchweek 35,Home,D,1,1,Newcastle Utd,0.7,1.7,45,Brighton
+2025-05-10,15:00,Premier League,Matchweek 36,Away,W,2,0,Wolves,1.6,0.9,44,Brighton
+2025-05-19,20:00,Premier League,Matchweek 37,Home,W,3,2,Liverpool,2.2,2.2,49,Brighton
+2025-05-25,16:00,Premier League,Matchweek 38,Away,W,4,1,Tottenham,2.2,2.0,66,Brighton
+2024-08-17,15:00,Premier League,Matchweek 1,Away,D,1,1,Nott'ham Forest,1.2,1.3,47,Bournemouth
+2024-08-25,14:00,Premier League,Matchweek 2,Home,D,1,1,Newcastle Utd,2.2,1.6,39,Bournemouth
+2024-08-31,15:00,Premier League,Matchweek 3,Away,W,3,2,Everton,2.4,1.8,53,Bournemouth
+2024-09-14,20:00,Premier League,Matchweek 4,Home,L,0,1,Chelsea,1.7,0.8,34,Bournemouth
+2024-09-21,15:00,Premier League,Matchweek 5,Away,L,0,3,Liverpool,1.1,2.0,42,Bournemouth
+2024-09-30,20:00,Premier League,Matchweek 6,Home,W,3,1,Southampton,1.3,0.6,40,Bournemouth
+2024-10-05,15:00,Premier League,Matchweek 7,Away,L,0,1,Leicester City,2.1,0.8,55,Bournemouth
+2024-10-19,17:30,Premier League,Matchweek 8,Home,W,2,0,Arsenal,1.8,0.7,49,Bournemouth
+2024-10-26,15:00,Premier League,Matchweek 9,Away,D,1,1,Aston Villa,0.3,1.8,43,Bournemouth
+2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Home,W,2,1,Manchester City,2.0,1.6,36,Bournemouth
+2024-11-09,15:00 (16:00),Premier League,Matchweek 11,Away,L,2,3,Brentford,2.6,1.5,49,Bournemouth
+2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Home,L,1,2,Brighton,1.6,0.9,55,Bournemouth
+2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Away,W,4,2,Wolves,3.3,0.5,40,Bournemouth
+2024-12-05,20:15 (21:15),Premier League,Matchweek 14,Home,W,1,0,Tottenham,3.5,0.9,35,Bournemouth
+2024-12-08,14:00 (15:00),Premier League,Matchweek 15,Away,W,2,1,Ipswich Town,3.2,1.3,56,Bournemouth
+2024-12-16,20:00 (21:00),Premier League,Matchweek 16,Home,D,1,1,West Ham,1.9,2.1,52,Bournemouth
+2024-12-22,14:00 (15:00),Premier League,Matchweek 17,Away,W,3,0,Manchester Utd,1.6,2.2,40,Bournemouth
+2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Home,D,0,0,Crystal Palace,1.4,0.4,52,Bournemouth
+2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Away,D,2,2,Fulham,2.0,1.1,48,Bournemouth
+2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Home,W,1,0,Everton,1.8,0.7,58,Bournemouth
+2025-01-14,19:30 (20:30),Premier League,Matchweek 21,Away,D,2,2,Chelsea,1.2,2.5,43,Bournemouth
+2025-01-18,12:30 (13:30),Premier League,Matchweek 22,Away,W,4,1,Newcastle Utd,2.0,0.8,44,Bournemouth
+2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Home,W,5,0,Nott'ham Forest,1.7,1.0,50,Bournemouth
+2025-02-01,15:00 (16:00),Premier League,Matchweek 24,Home,L,0,2,Liverpool,1.6,2.5,49,Bournemouth
+2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Away,W,3,1,Southampton,1.2,0.8,56,Bournemouth
+2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Home,L,0,1,Wolves,0.9,2.0,46,Bournemouth
+2025-02-25,19:30,Premier League,Matchweek 27,Away,L,1,2,Brighton,1.5,2.4,56,Bournemouth
+2025-03-09,14:00,Premier League,Matchweek 28,Away,D,2,2,Tottenham,2.2,1.5,39,Bournemouth
+2025-03-15,17:30,Premier League,Matchweek 29,Home,L,1,2,Brentford,1.6,0.8,58,Bournemouth
+2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Home,L,1,2,Ipswich Town,1.8,1.2,63,Bournemouth
+2025-04-05,15:00 (14:00),Premier League,Matchweek 31,Away,D,2,2,West Ham,2.1,0.7,44,Bournemouth
+2025-04-14,20:00,Premier League,Matchweek 32,Home,W,1,0,Fulham,1.4,1.0,41,Bournemouth
+2025-04-19,15:00,Premier League,Matchweek 33,Away,D,0,0,Crystal Palace,0.7,0.4,71,Bournemouth
+2025-04-27,14:00,Premier League,Matchweek 34,Home,D,1,1,Manchester Utd,0.5,2.3,39,Bournemouth
+2025-05-03,17:30,Premier League,Matchweek 35,Away,W,2,1,Arsenal,0.9,1.4,49,Bournemouth
+2025-05-10,17:30,Premier League,Matchweek 36,Home,L,0,1,Aston Villa,0.8,1.0,66,Bournemouth
+2025-05-20,20:00,Premier League,Matchweek 37,Away,L,1,3,Manchester City,1.1,1.5,43,Bournemouth
+2025-05-25,16:00,Premier League,Matchweek 38,Home,W,2,0,Leicester City,1.6,0.3,63,Bournemouth
+2024-08-18,14:00,Premier League,Matchweek 1,Home,W,2,1,Crystal Palace,1.6,1.2,46,Brentford
+2024-08-25,16:30,Premier League,Matchweek 2,Away,L,0,2,Liverpool,0.5,2.5,38,Brentford
+2024-08-31,15:00,Premier League,Matchweek 3,Home,W,3,1,Southampton,2.8,1.5,37,Brentford
+2024-09-14,15:00,Premier League,Matchweek 4,Away,L,1,2,Manchester City,1.0,2.1,46,Brentford
+2024-09-21,15:00,Premier League,Matchweek 5,Away,L,1,3,Tottenham,0.8,3.5,52,Brentford
+2024-09-28,15:00,Premier League,Matchweek 6,Home,D,1,1,West Ham,0.4,1.0,57,Brentford
+2024-10-05,15:00,Premier League,Matchweek 7,Home,W,5,3,Wolves,4.2,1.0,44,Brentford
+2024-10-19,15:00,Premier League,Matchweek 8,Away,L,1,2,Manchester Utd,0.9,1.3,50,Brentford
+2024-10-26,15:00,Premier League,Matchweek 9,Home,W,4,3,Ipswich Town,4.0,1.3,65,Brentford
+2024-11-04,20:00 (21:00),Premier League,Matchweek 10,Away,L,1,2,Fulham,0.6,1.3,32,Brentford
+2024-11-09,15:00 (16:00),Premier League,Matchweek 11,Home,W,3,2,Bournemouth,1.5,2.6,51,Brentford
+2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Away,D,0,0,Everton,1.1,1.2,41,Brentford
+2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Home,W,4,1,Leicester City,2.4,1.1,60,Brentford
+2024-12-04,20:15 (21:15),Premier League,Matchweek 14,Away,L,1,3,Aston Villa,0.9,2.4,51,Brentford
+2024-12-07,15:00 (16:00),Premier League,Matchweek 15,Home,W,4,2,Newcastle Utd,1.2,1.5,43,Brentford
+2024-12-15,19:00 (20:00),Premier League,Matchweek 16,Away,L,1,2,Chelsea,1.6,2.2,38,Brentford
+2024-12-21,15:00 (16:00),Premier League,Matchweek 17,Home,L,0,2,Nott'ham Forest,0.7,0.9,64,Brentford
+2024-12-27,19:30 (20:30),Premier League,Matchweek 18,Away,D,0,0,Brighton,1.1,1.3,43,Brentford
+2025-01-01,17:30 (18:30),Premier League,Matchweek 19,Home,L,1,3,Arsenal,0.3,1.9,50,Brentford
+2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Away,W,5,0,Southampton,4.4,0.3,50,Brentford
+2025-01-14,19:30 (20:30),Premier League,Matchweek 21,Home,D,2,2,Manchester City,2.5,2.2,45,Brentford
+2025-01-18,15:00 (16:00),Premier League,Matchweek 22,Home,L,0,2,Liverpool,0.7,3.4,40,Brentford
+2025-01-26,14:00 (15:00),Premier League,Matchweek 23,Away,W,2,1,Crystal Palace,1.3,1.1,53,Brentford
+2025-02-02,14:00 (15:00),Premier League,Matchweek 24,Home,L,0,2,Tottenham,2.1,0.8,54,Brentford
+2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Away,W,1,0,West Ham,1.6,0.8,42,Brentford
+2025-02-21,20:00 (21:00),Premier League,Matchweek 26,Away,W,4,0,Leicester City,1.5,0.5,52,Brentford
+2025-02-26,19:30,Premier League,Matchweek 27,Home,D,1,1,Everton,1.4,1.5,52,Brentford
+2025-03-08,17:30,Premier League,Matchweek 28,Home,L,0,1,Aston Villa,0.8,1.3,59,Brentford
+2025-03-15,17:30,Premier League,Matchweek 29,Away,W,2,1,Bournemouth,0.8,1.6,42,Brentford
+2025-04-02,19:45 (18:45),Premier League,Matchweek 30,Away,L,1,2,Newcastle Utd,1.5,1.3,51,Brentford
+2025-04-06,14:00,Premier League,Matchweek 31,Home,D,0,0,Chelsea,1.1,1.2,42,Brentford
+2025-04-12,17:30,Premier League,Matchweek 32,Away,D,1,1,Arsenal,0.2,1.0,37,Brentford
+2025-04-19,15:00,Premier League,Matchweek 33,Home,W,4,2,Brighton,2.1,1.4,47,Brentford
+2025-05-01,19:30,Premier League,Matchweek 34,Away,W,2,0,Nott'ham Forest,1.3,0.9,45,Brentford
+2025-05-04,14:00,Premier League,Matchweek 35,Home,W,4,3,Manchester Utd,2.8,1.5,47,Brentford
+2025-05-10,15:00,Premier League,Matchweek 36,Away,W,1,0,Ipswich Town,1.4,0.9,51,Brentford
+2025-05-18,15:00,Premier League,Matchweek 37,Home,L,2,3,Fulham,2.5,1.0,51,Brentford
+2025-05-25,16:00,Premier League,Matchweek 38,Away,D,1,1,Wolves,1.4,1.0,51,Brentford
+2024-08-16,20:00,Premier League,Matchweek 1,Away,L,0,1,Manchester Utd,0.4,2.4,45,Fulham
+2024-08-24,15:00,Premier League,Matchweek 2,Home,W,2,1,Leicester City,1.8,0.6,54,Fulham
+2024-08-31,15:00,Premier League,Matchweek 3,Away,D,1,1,Ipswich Town,0.9,0.4,52,Fulham
+2024-09-14,15:00,Premier League,Matchweek 4,Home,D,1,1,West Ham,1.5,0.8,54,Fulham
+2024-09-21,15:00,Premier League,Matchweek 5,Home,W,3,1,Newcastle Utd,2.2,1.5,39,Fulham
+2024-09-28,15:00,Premier League,Matchweek 6,Away,W,1,0,Nott'ham Forest,1.3,0.8,59,Fulham
+2024-10-05,15:00,Premier League,Matchweek 7,Away,L,2,3,Manchester City,2.6,1.6,42,Fulham
+2024-10-19,15:00,Premier League,Matchweek 8,Home,L,1,3,Aston Villa,1.8,1.6,52,Fulham
+2024-10-26,17:30,Premier League,Matchweek 9,Away,D,1,1,Everton,1.2,0.8,60,Fulham
+2024-11-04,20:00 (21:00),Premier League,Matchweek 10,Home,W,2,1,Brentford,1.3,0.6,68,Fulham
+2024-11-09,15:00 (16:00),Premier League,Matchweek 11,Away,W,2,0,Crystal Palace,1.8,1.5,64,Fulham
+2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Home,L,1,4,Wolves,1.0,1.3,59,Fulham
+2024-12-01,13:30 (14:30),Premier League,Matchweek 13,Away,D,1,1,Tottenham,1.5,0.8,49,Fulham
+2024-12-05,19:30 (20:30),Premier League,Matchweek 14,Home,W,3,1,Brighton,1.1,1.4,43,Fulham
+2024-12-08,14:00 (15:00),Premier League,Matchweek 15,Home,D,1,1,Arsenal,0.2,1.8,34,Fulham
+2024-12-14,15:00 (16:00),Premier League,Matchweek 16,Away,D,2,2,Liverpool,1.2,2.1,39,Fulham
+2024-12-22,14:00 (15:00),Premier League,Matchweek 17,Home,D,0,0,Southampton,0.9,0.3,57,Fulham
+2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Away,W,2,1,Chelsea,1.8,1.1,53,Fulham
+2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Home,D,2,2,Bournemouth,1.1,2.0,52,Fulham
+2025-01-05,14:00 (15:00),Premier League,Matchweek 20,Home,D,2,2,Ipswich Town,2.2,1.5,73,Fulham
+2025-01-14,19:30 (20:30),Premier League,Matchweek 21,Away,L,2,3,West Ham,1.7,1.0,56,Fulham
+2025-01-18,15:00 (16:00),Premier League,Matchweek 22,Away,W,2,0,Leicester City,2.0,0.6,60,Fulham
+2025-01-26,19:00 (20:00),Premier League,Matchweek 23,Home,L,0,1,Manchester Utd,0.7,0.3,51,Fulham
+2025-02-01,15:00 (16:00),Premier League,Matchweek 24,Away,W,2,1,Newcastle Utd,1.6,0.8,51,Fulham
+2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Home,W,2,1,Nott'ham Forest,2.1,0.4,55,Fulham
+2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Home,L,0,2,Crystal Palace,0.2,1.3,62,Fulham
+2025-02-25,19:30,Premier League,Matchweek 27,Away,W,2,1,Wolves,1.7,1.3,40,Fulham
+2025-03-08,15:00,Premier League,Matchweek 28,Away,L,1,2,Brighton,0.9,1.5,47,Fulham
+2025-03-16,13:30,Premier League,Matchweek 29,Home,W,2,0,Tottenham,1.0,0.9,57,Fulham
+2025-04-01,19:45 (18:45),Premier League,Matchweek 30,Away,L,1,2,Arsenal,1.0,2.2,49,Fulham
+2025-04-06,14:00,Premier League,Matchweek 31,Home,W,3,2,Liverpool,0.7,1.5,37,Fulham
+2025-04-14,20:00,Premier League,Matchweek 32,Away,L,0,1,Bournemouth,1.0,1.4,59,Fulham
+2025-04-20,14:00,Premier League,Matchweek 33,Home,L,1,2,Chelsea,0.3,0.9,41,Fulham
+2025-04-26,15:00,Premier League,Matchweek 34,Away,W,2,1,Southampton,2.4,0.6,65,Fulham
+2025-05-03,12:30,Premier League,Matchweek 35,Away,L,0,1,Aston Villa,0.9,1.0,48,Fulham
+2025-05-10,15:00,Premier League,Matchweek 36,Home,L,1,3,Everton,0.8,1.1,64,Fulham
+2025-05-18,15:00,Premier League,Matchweek 37,Away,W,3,2,Brentford,1.0,2.5,49,Fulham
+2025-05-25,16:00,Premier League,Matchweek 38,Home,L,0,2,Manchester City,1.3,3.0,47,Fulham
+2024-08-17,15:00,Premier League,Matchweek 1,Home,L,0,3,Brighton,0.5,1.4,40,Everton
+2024-08-24,15:00,Premier League,Matchweek 2,Away,L,0,4,Tottenham,1.0,2.4,30,Everton
+2024-08-31,15:00,Premier League,Matchweek 3,Home,L,2,3,Bournemouth,1.8,2.4,47,Everton
+2024-09-14,17:30,Premier League,Matchweek 4,Away,L,2,3,Aston Villa,0.9,2.1,28,Everton
+2024-09-21,15:00,Premier League,Matchweek 5,Away,D,1,1,Leicester City,1.1,0.7,42,Everton
+2024-09-28,15:00,Premier League,Matchweek 6,Home,W,2,1,Crystal Palace,0.9,0.9,41,Everton
+2024-10-05,17:30,Premier League,Matchweek 7,Home,D,0,0,Newcastle Utd,0.7,2.1,33,Everton
+2024-10-19,15:00,Premier League,Matchweek 8,Away,W,2,0,Ipswich Town,1.7,1.3,45,Everton
+2024-10-26,17:30,Premier League,Matchweek 9,Home,D,1,1,Fulham,0.8,1.2,40,Everton
+2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Away,L,0,1,Southampton,1.6,0.7,35,Everton
+2024-11-09,15:00 (16:00),Premier League,Matchweek 11,Away,D,0,0,West Ham,1.1,0.8,51,Everton
+2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Home,D,0,0,Brentford,1.2,1.1,59,Everton
+2024-12-01,13:30 (14:30),Premier League,Matchweek 13,Away,L,0,4,Manchester Utd,0.6,1.1,40,Everton
+2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Home,W,4,0,Wolves,1.0,0.8,44,Everton
+2024-12-14,15:00 (16:00),Premier League,Matchweek 16,Away,D,0,0,Arsenal,0.1,1.2,24,Everton
+2024-12-22,14:00 (15:00),Premier League,Matchweek 17,Home,D,0,0,Chelsea,1.0,1.2,25,Everton
+2024-12-26,12:30 (13:30),Premier League,Matchweek 18,Away,D,1,1,Manchester City,0.7,2.1,34,Everton
+2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Home,L,0,2,Nott'ham Forest,0.9,1.5,64,Everton
+2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Away,L,0,1,Bournemouth,0.7,1.8,42,Everton
+2025-01-15,19:30 (20:30),Premier League,Matchweek 21,Home,L,0,1,Aston Villa,1.1,1.2,50,Everton
+2025-01-19,14:00 (15:00),Premier League,Matchweek 22,Home,W,3,2,Tottenham,1.8,1.1,36,Everton
+2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Away,W,1,0,Brighton,0.8,0.7,31,Everton
+2025-02-01,15:00 (16:00),Premier League,Matchweek 24,Home,W,4,0,Leicester City,2.5,0.3,48,Everton
+2025-02-12,19:30 (20:30),Premier League,Matchweek 15,Home,D,2,2,Liverpool,1.0,0.6,37,Everton
+2025-02-15,17:30 (18:30),Premier League,Matchweek 25,Away,W,2,1,Crystal Palace,0.9,1.6,42,Everton
+2025-02-22,12:30 (13:30),Premier League,Matchweek 26,Home,D,2,2,Manchester Utd,1.6,0.4,38,Everton
+2025-02-26,19:30,Premier League,Matchweek 27,Away,D,1,1,Brentford,1.5,1.4,48,Everton
+2025-03-08,20:00,Premier League,Matchweek 28,Away,D,1,1,Wolves,1.2,0.8,34,Everton
+2025-03-15,15:00,Premier League,Matchweek 29,Home,D,1,1,West Ham,1.0,0.8,54,Everton
+2025-04-02,20:00 (19:00),Premier League,Matchweek 30,Away,L,0,1,Liverpool,0.9,1.5,27,Everton
+2025-04-05,12:30 (11:30),Premier League,Matchweek 31,Home,D,1,1,Arsenal,1.1,1.8,31,Everton
+2025-04-12,15:00,Premier League,Matchweek 32,Away,W,1,0,Nott'ham Forest,1.4,0.5,57,Everton
+2025-04-19,15:00,Premier League,Matchweek 33,Home,L,0,2,Manchester City,0.9,2.0,33,Everton
+2025-04-26,12:30,Premier League,Matchweek 34,Away,L,0,1,Chelsea,0.4,0.8,45,Everton
+2025-05-03,15:00,Premier League,Matchweek 35,Home,D,2,2,Ipswich Town,0.6,0.8,58,Everton
+2025-05-10,15:00,Premier League,Matchweek 36,Away,W,3,1,Fulham,1.1,0.8,36,Everton
+2025-05-18,12:00,Premier League,Matchweek 37,Home,W,2,0,Southampton,2.7,1.2,50,Everton
+2025-05-25,16:00,Premier League,Matchweek 38,Away,W,1,0,Newcastle Utd,1.2,1.2,35,Everton
+2024-08-17,17:30,Premier League,Matchweek 1,Home,L,1,2,Aston Villa,2.3,2.0,52,West Ham
+2024-08-24,15:00,Premier League,Matchweek 2,Away,W,2,0,Crystal Palace,1.4,1.3,42,West Ham
+2024-08-31,17:30,Premier League,Matchweek 3,Home,L,1,3,Manchester City,0.7,3.0,33,West Ham
+2024-09-14,15:00,Premier League,Matchweek 4,Away,D,1,1,Fulham,0.8,1.5,46,West Ham
+2024-09-21,12:30,Premier League,Matchweek 5,Home,L,0,3,Chelsea,0.9,2.2,53,West Ham
+2024-09-28,15:00,Premier League,Matchweek 6,Away,D,1,1,Brentford,1.0,0.4,43,West Ham
+2024-10-05,15:00,Premier League,Matchweek 7,Home,W,4,1,Ipswich Town,3.6,0.6,52,West Ham
+2024-10-19,12:30,Premier League,Matchweek 8,Away,L,1,4,Tottenham,0.8,1.9,43,West Ham
+2024-10-27,14:00 (15:00),Premier League,Matchweek 9,Home,W,2,1,Manchester Utd,2.8,2.3,42,West Ham
+2024-11-02,15:00 (16:00),Premier League,Matchweek 10,Away,L,0,3,Nott'ham Forest,0.1,2.2,46,West Ham
+2024-11-09,15:00 (16:00),Premier League,Matchweek 11,Home,D,0,0,Everton,0.8,1.1,49,West Ham
+2024-11-25,20:00 (21:00),Premier League,Matchweek 12,Away,W,2,0,Newcastle Utd,0.9,1.6,47,West Ham
+2024-11-30,17:30 (18:30),Premier League,Matchweek 13,Home,L,2,5,Arsenal,1.5,3.5,40,West Ham
+2024-12-03,20:15 (21:15),Premier League,Matchweek 14,Away,L,1,3,Leicester City,3.0,1.7,61,West Ham
+2024-12-09,20:00 (21:00),Premier League,Matchweek 15,Home,W,2,1,Wolves,1.0,1.4,54,West Ham
+2024-12-16,20:00 (21:00),Premier League,Matchweek 16,Away,D,1,1,Bournemouth,2.1,1.9,48,West Ham
+2024-12-21,15:00 (16:00),Premier League,Matchweek 17,Home,D,1,1,Brighton,1.2,0.9,47,West Ham
+2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Away,W,1,0,Southampton,1.7,1.4,46,West Ham
+2024-12-29,17:15 (18:15),Premier League,Matchweek 19,Home,L,0,5,Liverpool,0.4,3.1,46,West Ham
+2025-01-04,15:00 (16:00),Premier League,Matchweek 20,Away,L,1,4,Manchester City,1.4,1.9,44,West Ham
+2025-01-14,19:30 (20:30),Premier League,Matchweek 21,Home,W,3,2,Fulham,1.0,1.7,44,West Ham
+2025-01-18,15:00 (16:00),Premier League,Matchweek 22,Home,L,0,2,Crystal Palace,0.3,1.3,53,West Ham
+2025-01-26,16:30 (17:30),Premier League,Matchweek 23,Away,D,1,1,Aston Villa,1.3,0.9,54,West Ham
+2025-02-03,20:00 (21:00),Premier League,Matchweek 24,Away,L,1,2,Chelsea,1.2,1.6,32,West Ham
+2025-02-15,15:00 (16:00),Premier League,Matchweek 25,Home,L,0,1,Brentford,0.8,1.6,58,West Ham
+2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Away,W,1,0,Arsenal,1.1,1.2,32,West Ham
+2025-02-27,20:00,Premier League,Matchweek 27,Home,W,2,0,Leicester City,1.3,0.4,58,West Ham
+2025-03-10,20:00,Premier League,Matchweek 28,Home,L,0,1,Newcastle Utd,0.7,1.4,51,West Ham
+2025-03-15,15:00,Premier League,Matchweek 29,Away,D,1,1,Everton,0.8,1.0,46,West Ham
+2025-04-01,19:45 (18:45),Premier League,Matchweek 30,Away,L,0,1,Wolves,1.3,1.2,58,West Ham
+2025-04-05,15:00 (14:00),Premier League,Matchweek 31,Home,D,2,2,Bournemouth,0.7,2.1,56,West Ham
+2025-04-13,14:00,Premier League,Matchweek 32,Away,L,1,2,Liverpool,1.4,1.8,45,West Ham
+2025-04-19,15:00,Premier League,Matchweek 33,Home,D,1,1,Southampton,0.9,0.6,52,West Ham
+2025-04-26,15:00,Premier League,Matchweek 34,Away,L,2,3,Brighton,1.3,1.3,47,West Ham
+2025-05-04,14:00,Premier League,Matchweek 35,Home,D,1,1,Tottenham,0.8,0.8,55,West Ham
+2025-05-11,14:15,Premier League,Matchweek 36,Away,W,2,0,Manchester Utd,1.7,2.1,48,West Ham
+2025-05-18,14:15,Premier League,Matchweek 37,Home,L,1,2,Nott'ham Forest,1.1,1.9,60,West Ham
+2025-05-25,16:00,Premier League,Matchweek 38,Away,W,3,1,Ipswich Town,1.1,0.7,58,West Ham
+2024-08-16,20:00,Premier League,Matchweek 1,Home,W,1,0,Fulham,2.4,0.4,55,Manchester Utd
+2024-08-24,12:30,Premier League,Matchweek 2,Away,L,1,2,Brighton,1.4,2.1,52,Manchester Utd
+2024-09-01,16:00,Premier League,Matchweek 3,Home,L,0,3,Liverpool,1.4,1.8,53,Manchester Utd
+2024-09-14,12:30,Premier League,Matchweek 4,Away,W,3,0,Southampton,2.6,1.1,56,Manchester Utd
+2024-09-21,17:30,Premier League,Matchweek 5,Away,D,0,0,Crystal Palace,1.6,1.0,67,Manchester Utd
+2024-09-29,16:30,Premier League,Matchweek 6,Home,L,0,3,Tottenham,1.0,4.4,39,Manchester Utd
+2024-10-06,14:00,Premier League,Matchweek 7,Away,D,0,0,Aston Villa,0.6,0.5,47,Manchester Utd
+2024-10-19,15:00,Premier League,Matchweek 8,Home,W,2,1,Brentford,1.3,0.9,50,Manchester Utd
+2024-10-27,14:00 (15:00),Premier League,Matchweek 9,Away,L,1,2,West Ham,2.3,2.8,58,Manchester Utd
+2024-11-03,16:30 (17:30),Premier League,Matchweek 10,Home,D,1,1,Chelsea,2.0,1.1,46,Manchester Utd
+2024-11-10,14:00 (15:00),Premier League,Matchweek 11,Home,W,3,0,Leicester City,0.8,0.6,51,Manchester Utd
+2024-11-24,16:30 (17:30),Premier League,Matchweek 12,Away,D,1,1,Ipswich Town,0.8,1.6,60,Manchester Utd
+2024-12-01,13:30 (14:30),Premier League,Matchweek 13,Home,W,4,0,Everton,1.1,0.6,60,Manchester Utd
+2024-12-04,20:15 (21:15),Premier League,Matchweek 14,Away,L,0,2,Arsenal,0.2,2.1,49,Manchester Utd
+2024-12-07,17:30 (18:30),Premier League,Matchweek 15,Home,L,2,3,Nott'ham Forest,1.6,0.8,71,Manchester Utd
+2024-12-15,16:30 (17:30),Premier League,Matchweek 16,Away,W,2,1,Manchester City,2.1,0.9,48,Manchester Utd
+2024-12-22,14:00 (15:00),Premier League,Matchweek 17,Home,L,0,3,Bournemouth,2.2,1.6,60,Manchester Utd
+2024-12-26,17:30 (18:30),Premier League,Matchweek 18,Away,L,0,2,Wolves,0.4,0.9,49,Manchester Utd
+2024-12-30,20:00 (21:00),Premier League,Matchweek 19,Home,L,0,2,Newcastle Utd,0.8,1.9,52,Manchester Utd
+2025-01-05,16:30 (17:30),Premier League,Matchweek 20,Away,D,2,2,Liverpool,1.0,2.7,47,Manchester Utd
+2025-01-16,20:00 (21:00),Premier League,Matchweek 21,Home,W,3,1,Southampton,3.4,1.4,60,Manchester Utd
+2025-01-19,14:00 (15:00),Premier League,Matchweek 22,Home,L,1,3,Brighton,1.5,1.9,51,Manchester Utd
+2025-01-26,19:00 (20:00),Premier League,Matchweek 23,Away,W,1,0,Fulham,0.3,0.7,49,Manchester Utd
+2025-02-02,14:00 (15:00),Premier League,Matchweek 24,Home,L,0,2,Crystal Palace,1.1,2.6,66,Manchester Utd
+2025-02-16,16:30 (17:30),Premier League,Matchweek 25,Away,L,0,1,Tottenham,1.5,2.2,45,Manchester Utd
+2025-02-22,12:30 (13:30),Premier League,Matchweek 26,Away,D,2,2,Everton,0.4,1.6,62,Manchester Utd
+2025-02-26,19:30,Premier League,Matchweek 27,Home,W,3,2,Ipswich Town,0.7,1.4,45,Manchester Utd
+2025-03-09,16:30,Premier League,Matchweek 28,Home,D,1,1,Arsenal,1.5,1.6,32,Manchester Utd
+2025-03-16,19:00,Premier League,Matchweek 29,Away,W,3,0,Leicester City,0.9,1.0,47,Manchester Utd
+2025-04-01,20:00 (19:00),Premier League,Matchweek 30,Away,L,0,1,Nott'ham Forest,1.6,0.5,68,Manchester Utd
+2025-04-06,16:30,Premier League,Matchweek 31,Home,D,0,0,Manchester City,0.9,0.5,42,Manchester Utd
+2025-04-13,16:30,Premier League,Matchweek 32,Away,L,1,4,Newcastle Utd,0.7,2.2,52,Manchester Utd
+2025-04-20,14:00,Premier League,Matchweek 33,Home,L,0,1,Wolves,1.3,0.2,59,Manchester Utd
+2025-04-27,14:00,Premier League,Matchweek 34,Away,D,1,1,Bournemouth,2.3,0.5,61,Manchester Utd
+2025-05-04,14:00,Premier League,Matchweek 35,Away,L,3,4,Brentford,1.5,2.8,53,Manchester Utd
+2025-05-11,14:15,Premier League,Matchweek 36,Home,L,0,2,West Ham,2.1,1.7,52,Manchester Utd
+2025-05-16,20:15,Premier League,Matchweek 37,Away,L,0,1,Chelsea,0.3,0.8,53,Manchester Utd
+2025-05-25,16:00,Premier League,Matchweek 38,Home,W,2,0,Aston Villa,2.9,0.4,67,Manchester Utd
+2024-08-17,15:00,Premier League,Matchweek 1,Away,L,0,2,Arsenal,0.5,1.2,47,Wolves
+2024-08-25,14:00,Premier League,Matchweek 2,Home,L,2,6,Chelsea,1.9,1.6,40,Wolves
+2024-08-31,15:00,Premier League,Matchweek 3,Away,D,1,1,Nott'ham Forest,0.7,1.0,48,Wolves
+2024-09-15,16:30,Premier League,Matchweek 4,Home,L,1,2,Newcastle Utd,1.2,1.5,49,Wolves
+2024-09-21,15:00,Premier League,Matchweek 5,Away,L,1,3,Aston Villa,0.5,1.7,47,Wolves
+2024-09-28,17:30,Premier League,Matchweek 6,Home,L,1,2,Liverpool,0.6,2.5,45,Wolves
+2024-10-05,15:00,Premier League,Matchweek 7,Away,L,3,5,Brentford,1.0,4.2,56,Wolves
+2024-10-20,14:00,Premier League,Matchweek 8,Home,L,1,2,Manchester City,0.8,1.6,23,Wolves
+2024-10-26,15:00,Premier League,Matchweek 9,Away,D,2,2,Brighton,1.3,1.3,49,Wolves
+2024-11-02,17:30 (18:30),Premier League,Matchweek 10,Home,D,2,2,Crystal Palace,1.5,2.4,57,Wolves
+2024-11-09,15:00 (16:00),Premier League,Matchweek 11,Home,W,2,0,Southampton,1.3,0.6,29,Wolves
+2024-11-23,15:00 (16:00),Premier League,Matchweek 12,Away,W,4,1,Fulham,1.3,1.0,41,Wolves
+2024-11-30,15:00 (16:00),Premier League,Matchweek 13,Home,L,2,4,Bournemouth,0.5,3.3,60,Wolves
+2024-12-04,19:30 (20:30),Premier League,Matchweek 14,Away,L,0,4,Everton,0.8,1.0,56,Wolves
+2024-12-09,20:00 (21:00),Premier League,Matchweek 15,Away,L,1,2,West Ham,1.4,1.0,46,Wolves
+2024-12-14,15:00 (16:00),Premier League,Matchweek 16,Home,L,1,2,Ipswich Town,1.3,1.1,54,Wolves
+2024-12-22,14:00 (15:00),Premier League,Matchweek 17,Away,W,3,0,Leicester City,1.1,0.8,46,Wolves
+2024-12-26,17:30 (18:30),Premier League,Matchweek 18,Home,W,2,0,Manchester Utd,0.9,0.4,51,Wolves
+2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Away,D,2,2,Tottenham,0.7,2.2,52,Wolves
+2025-01-06,20:00 (21:00),Premier League,Matchweek 20,Home,L,0,3,Nott'ham Forest,1.5,2.1,60,Wolves
+2025-01-15,19:30 (20:30),Premier League,Matchweek 21,Away,L,0,3,Newcastle Utd,1.6,2.1,40,Wolves
+2025-01-20,20:00 (21:00),Premier League,Matchweek 22,Away,L,1,3,Chelsea,0.8,3.1,37,Wolves
+2025-01-25,15:00 (16:00),Premier League,Matchweek 23,Home,L,0,1,Arsenal,0.7,1.0,51,Wolves
+2025-02-01,17:30 (18:30),Premier League,Matchweek 24,Home,W,2,0,Aston Villa,1.6,0.4,32,Wolves
+2025-02-16,14:00 (15:00),Premier League,Matchweek 25,Away,L,1,2,Liverpool,1.5,1.7,50,Wolves
+2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Away,W,1,0,Bournemouth,2.0,0.9,54,Wolves
+2025-02-25,19:30,Premier League,Matchweek 27,Home,L,1,2,Fulham,1.3,1.7,60,Wolves
+2025-03-08,20:00,Premier League,Matchweek 28,Home,D,1,1,Everton,0.8,1.2,66,Wolves
+2025-03-15,15:00,Premier League,Matchweek 29,Away,W,2,1,Southampton,0.4,1.3,40,Wolves
+2025-04-01,19:45 (18:45),Premier League,Matchweek 30,Home,W,1,0,West Ham,1.2,1.3,42,Wolves
+2025-04-05,15:00 (14:00),Premier League,Matchweek 31,Away,W,2,1,Ipswich Town,2.6,0.8,55,Wolves
+2025-04-13,14:00,Premier League,Matchweek 32,Home,W,4,2,Tottenham,2.4,2.0,37,Wolves
+2025-04-20,14:00,Premier League,Matchweek 33,Away,W,1,0,Manchester Utd,0.2,1.3,41,Wolves
+2025-04-26,15:00,Premier League,Matchweek 34,Home,W,3,0,Leicester City,2.0,1.1,56,Wolves
+2025-05-02,20:00,Premier League,Matchweek 35,Away,L,0,1,Manchester City,0.4,0.7,37,Wolves
+2025-05-10,15:00,Premier League,Matchweek 36,Home,L,0,2,Brighton,0.9,1.6,56,Wolves
+2025-05-20,20:00,Premier League,Matchweek 37,Away,L,2,4,Crystal Palace,1.4,1.7,69,Wolves
+2025-05-25,16:00,Premier League,Matchweek 38,Home,D,1,1,Brentford,1.0,1.4,49,Wolves
+2024-08-19,20:00,Premier League,Matchweek 1,Away,D,1,1,Leicester City,1.2,1.0,70,Tottenham
+2024-08-24,15:00,Premier League,Matchweek 2,Home,W,4,0,Everton,2.4,1.0,70,Tottenham
+2024-09-01,13:30,Premier League,Matchweek 3,Away,L,1,2,Newcastle Utd,1.2,1.8,65,Tottenham
+2024-09-15,14:00,Premier League,Matchweek 4,Home,L,0,1,Arsenal,0.7,0.7,63,Tottenham
+2024-09-21,15:00,Premier League,Matchweek 5,Home,W,3,1,Brentford,3.5,0.8,48,Tottenham
+2024-09-29,16:30,Premier League,Matchweek 6,Away,W,3,0,Manchester Utd,4.4,1.0,61,Tottenham
+2024-10-06,16:30,Premier League,Matchweek 7,Away,L,2,3,Brighton,1.3,1.8,59,Tottenham
+2024-10-19,12:30,Premier League,Matchweek 8,Home,W,4,1,West Ham,1.9,0.8,57,Tottenham
+2024-10-27,14:00 (15:00),Premier League,Matchweek 9,Away,L,0,1,Crystal Palace,0.7,0.8,66,Tottenham
+2024-11-03,14:00 (15:00),Premier League,Matchweek 10,Home,W,4,1,Aston Villa,2.4,1.8,51,Tottenham
+2024-11-10,14:00 (15:00),Premier League,Matchweek 11,Home,L,1,2,Ipswich Town,1.5,1.6,66,Tottenham
+2024-11-23,17:30 (18:30),Premier League,Matchweek 12,Away,W,4,0,Manchester City,2.5,2.1,42,Tottenham
+2024-12-01,13:30 (14:30),Premier League,Matchweek 13,Home,D,1,1,Fulham,0.8,1.5,51,Tottenham
+2024-12-05,20:15 (21:15),Premier League,Matchweek 14,Away,L,0,1,Bournemouth,0.9,3.5,65,Tottenham
+2024-12-08,16:30 (17:30),Premier League,Matchweek 15,Home,L,3,4,Chelsea,2.8,2.8,39,Tottenham
+2024-12-15,19:00 (20:00),Premier League,Matchweek 16,Away,W,5,0,Southampton,2.3,0.8,58,Tottenham
+2024-12-22,16:30 (17:30),Premier League,Matchweek 17,Home,L,3,6,Liverpool,1.3,5.6,52,Tottenham
+2024-12-26,15:00 (16:00),Premier League,Matchweek 18,Away,L,0,1,Nott'ham Forest,0.9,1.1,70,Tottenham
+2024-12-29,15:00 (16:00),Premier League,Matchweek 19,Home,D,2,2,Wolves,2.2,0.7,48,Tottenham
+2025-01-04,12:30 (13:30),Premier League,Matchweek 20,Home,L,1,2,Newcastle Utd,0.9,2.5,56,Tottenham
+2025-01-15,20:00 (21:00),Premier League,Matchweek 21,Away,L,1,2,Arsenal,0.8,1.4,47,Tottenham
+2025-01-19,14:00 (15:00),Premier League,Matchweek 22,Away,L,2,3,Everton,1.1,1.8,64,Tottenham
+2025-01-26,14:00 (15:00),Premier League,Matchweek 23,Home,L,1,2,Leicester City,1.0,1.6,61,Tottenham
+2025-02-02,14:00 (15:00),Premier League,Matchweek 24,Away,W,2,0,Brentford,0.8,2.1,46,Tottenham
+2025-02-16,16:30 (17:30),Premier League,Matchweek 25,Home,W,1,0,Manchester Utd,2.2,1.5,55,Tottenham
+2025-02-22,15:00 (16:00),Premier League,Matchweek 26,Away,W,4,1,Ipswich Town,1.7,1.1,58,Tottenham
+2025-02-26,19:30,Premier League,Matchweek 27,Home,L,0,1,Manchester City,1.3,2.1,55,Tottenham
+2025-03-09,14:00,Premier League,Matchweek 28,Home,D,2,2,Bournemouth,1.5,2.2,61,Tottenham
+2025-03-16,13:30,Premier League,Matchweek 29,Away,L,0,2,Fulham,0.9,1.0,43,Tottenham
+2025-04-03,20:00 (19:00),Premier League,Matchweek 30,Away,L,0,1,Chelsea,0.9,1.0,49,Tottenham
+2025-04-06,14:00,Premier League,Matchweek 31,Home,W,3,1,Southampton,2.1,1.0,51,Tottenham
+2025-04-13,14:00,Premier League,Matchweek 32,Away,L,2,4,Wolves,2.0,2.4,63,Tottenham
+2025-04-21,20:00,Premier League,Matchweek 33,Home,L,1,2,Nott'ham Forest,2.1,0.5,69,Tottenham
+2025-04-27,16:30,Premier League,Matchweek 34,Away,L,1,5,Liverpool,0.5,2.2,39,Tottenham
+2025-05-04,14:00,Premier League,Matchweek 35,Away,D,1,1,West Ham,0.8,0.8,45,Tottenham
+2025-05-11,14:15,Premier League,Matchweek 36,Home,L,0,2,Crystal Palace,0.7,3.3,48,Tottenham
+2025-05-16,19:30,Premier League,Matchweek 37,Away,L,0,2,Aston Villa,0.5,1.4,33,Tottenham
+2025-05-25,16:00,Premier League,Matchweek 38,Home,L,1,4,Brighton,2.0,2.2,34,Tottenham

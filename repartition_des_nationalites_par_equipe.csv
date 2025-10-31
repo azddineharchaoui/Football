@@ -1,0 +1,357 @@
+nomequipe,nationalite,nombre_joueurs
+Arsenal,eng ENG,16
+Arsenal,br BRA,6
+Arsenal,it ITA,4
+Arsenal,es ESP,4
+Arsenal,,4
+Arsenal,ua UKR,2
+Arsenal,sct SCO,2
+Arsenal,pl POL,2
+Arsenal,no NOR,2
+Arsenal,nl NED,2
+Arsenal,jp JPN,2
+Arsenal,gh GHA,2
+Arsenal,fr FRA,2
+Arsenal,de GER,2
+Arsenal,be BEL,2
+Aston Villa,eng ENG,16
+Aston Villa,nl NED,6
+Aston Villa,fr FRA,6
+Aston Villa,es ESP,6
+Aston Villa,be BEL,4
+Aston Villa,ar ARG,4
+Aston Villa,,4
+Aston Villa,se SWE,2
+Aston Villa,sct SCO,2
+Aston Villa,rs SRB,2
+Aston Villa,pl POL,2
+Aston Villa,jm JAM,2
+Aston Villa,co COL,2
+Aston Villa,br BRA,2
+Bournemouth,eng ENG,16
+Bournemouth,es ESP,4
+Bournemouth,br BRA,4
+Bournemouth,ar ARG,4
+Bournemouth,,4
+Bournemouth,wls WAL,2
+Bournemouth,us USA,2
+Bournemouth,ua UKR,2
+Bournemouth,tr TUR,2
+Bournemouth,sct SCO,2
+Bournemouth,nl NED,2
+Bournemouth,mx MEX,2
+Bournemouth,ms MSR,2
+Bournemouth,ie IRL,2
+Bournemouth,hu HUN,2
+Bournemouth,gh GHA,2
+Bournemouth,dk DEN,2
+Bournemouth,co COL,2
+Bournemouth,ca CAN,2
+Bournemouth,bf BFA,2
+Brentford,eng ENG,12
+Brentford,dk DEN,8
+Brentford,nl NED,4
+Brentford,de GER,4
+Brentford,br BRA,4
+Brentford,,4
+Brentford,ua UKR,2
+Brentford,tr TUR,2
+Brentford,pt POR,2
+Brentford,no NOR,2
+Brentford,ng NGA,2
+Brentford,kr KOR,2
+Brentford,jm JAM,2
+Brentford,it ITA,2
+Brentford,is ISL,2
+Brentford,ie IRL,2
+Brentford,cm CMR,2
+Brentford,cd COD,2
+Brighton,eng ENG,16
+Brighton,nl NED,8
+Brighton,py PAR,4
+Brighton,ie IRL,4
+Brighton,ec ECU,4
+Brighton,br BRA,4
+Brighton,,4
+Brighton,tr TUR,2
+Brighton,se SWE,2
+Brighton,sct SCO,2
+Brighton,pl POL,2
+Brighton,jp JPN,2
+Brighton,gm GAM,2
+Brighton,gh GHA,2
+Brighton,fr FRA,2
+Brighton,dk DEN,2
+Brighton,de GER,2
+Brighton,cm CMR,2
+Brighton,ci CIV,2
+Chelsea,eng ENG,22
+Chelsea,fr FRA,12
+Chelsea,pt POR,6
+Chelsea,es ESP,6
+Chelsea,,4
+Chelsea,ua UKR,2
+Chelsea,sn SEN,2
+Chelsea,ec ECU,2
+Chelsea,dk DEN,2
+Chelsea,be BEL,2
+Chelsea,ar ARG,2
+Crystal Palace,eng ENG,28
+Crystal Palace,fr FRA,6
+Crystal Palace,gh GHA,4
+Crystal Palace,co COL,4
+Crystal Palace,,4
+Crystal Palace,us USA,2
+Crystal Palace,sn SEN,2
+Crystal Palace,nir NIR,2
+Crystal Palace,ml MLI,2
+Crystal Palace,ma MAR,2
+Crystal Palace,jp JPN,2
+Crystal Palace,dk DEN,2
+Crystal Palace,br BRA,2
+Everton,eng ENG,24
+Everton,sn SEN,4
+Everton,ie IRL,4
+Everton,,4
+Everton,ua UKR,2
+Everton,sct SCO,2
+Everton,pt POR,2
+Everton,ml MLI,2
+Everton,jm JAM,2
+Everton,gw GNB,2
+Everton,dk DEN,2
+Everton,be BEL,2
+Everton,ar ARG,2
+Everton,al ALB,2
+Fulham,eng ENG,14
+Fulham,br BRA,8
+Fulham,ng NGA,4
+Fulham,es ESP,4
+Fulham,,4
+Fulham,wls WAL,2
+Fulham,us USA,2
+Fulham,sct SCO,2
+Fulham,rs SRB,2
+Fulham,no NOR,2
+Fulham,nl NED,2
+Fulham,mx MEX,2
+Fulham,fr FRA,2
+Fulham,dk DEN,2
+Fulham,de GER,2
+Fulham,be BEL,2
+Ipswich Town,eng ENG,34
+Ipswich Town,ie IRL,8
+Ipswich Town,wls WAL,4
+Ipswich Town,au AUS,4
+Ipswich Town,,4
+Ipswich Town,xk KVX,2
+Ipswich Town,se SWE,2
+Ipswich Town,sct SCO,2
+Ipswich Town,py PAR,2
+Ipswich Town,iq IRQ,2
+Ipswich Town,eg EGY,2
+Ipswich Town,cd COD,2
+Leicester City,eng ENG,18
+Leicester City,dk DEN,6
+Leicester City,,6
+Leicester City,gh GHA,4
+Leicester City,fr FRA,4
+Leicester City,zm ZAM,2
+Leicester City,wls WAL,2
+Leicester City,pt POR,2
+Leicester City,pl POL,2
+Leicester City,ng NGA,2
+Leicester City,ml MLI,2
+Leicester City,ma MAR,2
+Leicester City,jm JAM,2
+Leicester City,it ITA,2
+Leicester City,ie IRL,2
+Leicester City,be BEL,2
+Leicester City,bd BAN,2
+Leicester City,ar ARG,2
+Liverpool,eng ENG,12
+Liverpool,nl NED,6
+Liverpool,,4
+Liverpool,uy URU,2
+Liverpool,sct SCO,2
+Liverpool,pt POR,2
+Liverpool,nir NIR,2
+Liverpool,jp JPN,2
+Liverpool,it ITA,2
+Liverpool,ie IRL,2
+Liverpool,hu HUN,2
+Liverpool,gr GRE,2
+Liverpool,fr FRA,2
+Liverpool,eg EGY,2
+Liverpool,cz CZE,2
+Liverpool,co COL,2
+Liverpool,br BRA,2
+Liverpool,ar ARG,2
+Manchester City,eng ENG,18
+Manchester City,pt POR,6
+Manchester City,br BRA,6
+Manchester City,no NOR,4
+Manchester City,hr CRO,4
+Manchester City,es ESP,4
+Manchester City,de GER,4
+Manchester City,be BEL,4
+Manchester City,,4
+Manchester City,uz UZB,2
+Manchester City,nl NED,2
+Manchester City,eg EGY,2
+Manchester City,ch SUI,2
+Manchester City,ar ARG,2
+Manchester Utd,eng ENG,18
+Manchester Utd,dk DEN,8
+Manchester Utd,nl NED,6
+Manchester Utd,pt POR,4
+Manchester Utd,br BRA,4
+Manchester Utd,ar ARG,4
+Manchester Utd,,4
+Manchester Utd,uy URU,2
+Manchester Utd,tr TUR,2
+Manchester Utd,se SWE,2
+Manchester Utd,sct SCO,2
+Manchester Utd,nir NIR,2
+Manchester Utd,ma MAR,2
+Manchester Utd,fr FRA,2
+Manchester Utd,cm CMR,2
+Manchester Utd,ci CIV,2
+Newcastle United,eng ENG,28
+Newcastle United,se SWE,4
+Newcastle United,br BRA,4
+Newcastle United,,4
+Newcastle United,sk SVK,2
+Newcastle United,py PAR,2
+Newcastle United,nl NED,2
+Newcastle United,it ITA,2
+Newcastle United,dk DEN,2
+Newcastle United,ch SUI,2
+Newcastle Utd,eng ENG,28
+Newcastle Utd,se SWE,4
+Newcastle Utd,br BRA,4
+Newcastle Utd,,4
+Newcastle Utd,sk SVK,2
+Newcastle Utd,py PAR,2
+Newcastle Utd,nl NED,2
+Newcastle Utd,it ITA,2
+Newcastle Utd,dk DEN,2
+Newcastle Utd,ch SUI,2
+Nott'ham Forest,eng ENG,12
+Nott'ham Forest,br BRA,6
+Nott'ham Forest,ng NGA,4
+Nott'ham Forest,ci CIV,4
+Nott'ham Forest,,4
+Nott'ham Forest,wls WAL,2
+Nott'ham Forest,se SWE,2
+Nott'ham Forest,rs SRB,2
+Nott'ham Forest,py PAR,2
+Nott'ham Forest,pt POR,2
+Nott'ham Forest,nz NZL,2
+Nott'ham Forest,es ESP,2
+Nott'ham Forest,de GER,2
+Nott'ham Forest,be BEL,2
+Nott'ham Forest,ar ARG,2
+Nottingham Forest,eng ENG,12
+Nottingham Forest,br BRA,6
+Nottingham Forest,ng NGA,4
+Nottingham Forest,ci CIV,4
+Nottingham Forest,,4
+Nottingham Forest,wls WAL,2
+Nottingham Forest,se SWE,2
+Nottingham Forest,rs SRB,2
+Nottingham Forest,py PAR,2
+Nottingham Forest,pt POR,2
+Nottingham Forest,nz NZL,2
+Nottingham Forest,es ESP,2
+Nottingham Forest,de GER,2
+Nottingham Forest,be BEL,2
+Nottingham Forest,ar ARG,2
+Southampton,eng ENG,36
+Southampton,sct SCO,4
+Southampton,ng NGA,4
+Southampton,ie IRL,4
+Southampton,fr FRA,4
+Southampton,,4
+Southampton,pt POR,2
+Southampton,pl POL,2
+Southampton,jp JPN,2
+Southampton,gh GHA,2
+Southampton,dk DEN,2
+Southampton,de GER,2
+Southampton,cl CHI,2
+Southampton,ci CIV,2
+Southampton,br BRA,2
+Southampton,ar ARG,2
+Tottenham,eng ENG,20
+Tottenham,wls WAL,4
+Tottenham,se SWE,4
+Tottenham,it ITA,4
+Tottenham,fr FRA,4
+Tottenham,es ESP,4
+Tottenham,,4
+Tottenham,uy URU,2
+Tottenham,sn SEN,2
+Tottenham,ro ROU,2
+Tottenham,nl NED,2
+Tottenham,ml MLI,2
+Tottenham,kr KOR,2
+Tottenham,de GER,2
+Tottenham,cz CZE,2
+Tottenham,br BRA,2
+Tottenham,at AUT,2
+Tottenham,ar ARG,2
+Tottenham Hotspur,eng ENG,20
+Tottenham Hotspur,wls WAL,4
+Tottenham Hotspur,se SWE,4
+Tottenham Hotspur,it ITA,4
+Tottenham Hotspur,fr FRA,4
+Tottenham Hotspur,es ESP,4
+Tottenham Hotspur,,4
+Tottenham Hotspur,uy URU,2
+Tottenham Hotspur,sn SEN,2
+Tottenham Hotspur,ro ROU,2
+Tottenham Hotspur,nl NED,2
+Tottenham Hotspur,ml MLI,2
+Tottenham Hotspur,kr KOR,2
+Tottenham Hotspur,de GER,2
+Tottenham Hotspur,cz CZE,2
+Tottenham Hotspur,br BRA,2
+Tottenham Hotspur,at AUT,2
+Tottenham Hotspur,ar ARG,2
+West Ham,eng ENG,16
+West Ham,fr FRA,4
+West Ham,cz CZE,4
+West Ham,br BRA,4
+West Ham,,4
+West Ham,sct SCO,2
+West Ham,pl POL,2
+West Ham,nl NED,2
+West Ham,mx MEX,2
+West Ham,jm JAM,2
+West Ham,it ITA,2
+West Ham,ie IRL,2
+West Ham,gr GRE,2
+West Ham,gh GHA,2
+West Ham,es ESP,2
+West Ham,de GER,2
+West Ham,cd COD,2
+West Ham,ar ARG,2
+Wolves,pt POR,16
+Wolves,eng ENG,10
+Wolves,br BRA,8
+Wolves,,4
+Wolves,zw ZIM,2
+Wolves,wls WAL,2
+Wolves,uy URU,2
+Wolves,no NOR,2
+Wolves,ml MLI,2
+Wolves,kr KOR,2
+Wolves,ie IRL,2
+Wolves,ht HAI,2
+Wolves,ga GAB,2
+Wolves,es ESP,2
+Wolves,dz ALG,2
+Wolves,co COL,2
+Wolves,ci CIV,2
+Wolves,bf BFA,2
