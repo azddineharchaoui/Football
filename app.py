@@ -118,12 +118,17 @@ GROUP BY e.nomequipe
 ORDER BY buts_concedes ASC
 """,
     "Meilleurs buteurs par équipe": """
-SELECT e.nomequipe, j.nomjoueur, MAX(sj.buts) as max_buts
+SELECT e.nomequipe, j.nomjoueur, sj.buts as max_buts
 FROM equipe e
 JOIN joueur j ON e.idequipe = j.id_equipe
 JOIN statistiquejoueur sj ON j.idjoueur = sj.idjoueur
+WHERE sj.buts = (
+    SELECT MAX(sj2.buts)
+    FROM statistiquejoueur sj2
+    JOIN joueur j2 ON sj2.idjoueur = j2.idjoueur
+    WHERE j2.id_equipe = e.idequipe
+)
 {excl}
-GROUP BY e.nomequipe, j.nomjoueur
 ORDER BY e.nomequipe, max_buts DESC
 """,
     "Nombre total de matchs joués par équipe": """
